@@ -1,0 +1,1201 @@
+order_id,order_date,city,product,category,quantity,unit_price,discount,unit_cost,payment_method,total_sales,total_profit,month
+10001,2025-12-15,Shymkent,Pen Set,Stationery,5.0,12,0.0,5,Kaspi,60.0,35.0,12
+10002,2025-08-03,Shymkent,Smartphone,Electronics,3.0,520,0.15,380,Cash,1326.0,186.0,8
+10003,2025-12-26,Shymkent,Desk,Furniture,5.0,180,0.05,110,Bank Transfer,855.0,305.0,12
+10004,2025-07-11,Karaganda,Notebook,Stationery,5.0,5,0.0,2,Bank Transfer,25.0,15.0,7
+10005,2025-09-10,Karaganda,Notebook,Stationery,1.0,5,0.0,2,Kaspi,5.0,3.0,9
+10006,2025-12-30,Karaganda,Smartphone,Electronics,1.0,520,0.1,380,Cash,468.0,88.0,12
+10007,2025-05-15,Aktobe,Smartphone,Electronics,1.0,520,0.1,380,Card,468.0,88.0,5
+10008,2025-03-30,Karaganda,Desk,Furniture,2.0,180,0.05,110,Cash,342.0,122.0,3
+10009,2025-12-06,Karaganda,Chair,Furniture,4.0,95,0.1,55,Bank Transfer,342.0,122.0,12
+10010,2025-02-04,Astana,Backpack,Accessories,4.0,48,0.05,22,Bank Transfer,182.39999999999998,94.39999999999998,2
+10011,2025-01-02,Almaty,Desk,Furniture,4.0,180,0.05,110,Cash,684.0,244.0,1
+10012,2025-08-06,Karaganda,Headphones,Electronics,2.0,75,0.05,35,Card,142.5,72.5,8
+10013,2025-09-27,Unknown,Desk,Furniture,1.0,180,0.05,110,Bank Transfer,171.0,61.0,9
+10014,2025-07-27,Aktobe,Chair,Furniture,2.0,95,0.1,55,Cash,171.0,61.0,7
+10015,2025-08-05,Karaganda,Backpack,Accessories,4.0,48,0.15,22,Cash,163.2,75.19999999999999,8
+10016,2025-06-06,Aktobe,Watch,Accessories,1.0,130,0.0,75,Kaspi,130.0,55.0,6
+10017,2025-12-10,Astana,Watch,Accessories,4.0,130,0.15,75,Bank Transfer,442.0,142.0,12
+10018,2025-03-22,Shymkent,Smartphone,Electronics,3.0,520,0.0,380,Kaspi,1560.0,420.0,3
+10019,2025-08-19,Almaty,Chair,Furniture,1.0,95,0.15,55,Kaspi,80.75,25.75,8
+10020,2025-11-24,Karaganda,Watch,Accessories,2.0,130,0.0,75,Bank Transfer,260.0,110.0,11
+10021,2025-03-03,Aktobe,Pen Set,Stationery,3.0,12,0.15,5,Bank Transfer,30.599999999999998,15.599999999999998,3
+10022,2025-02-04,Astana,Notebook,Stationery,3.0,5,0.0,2,Kaspi,15.0,9.0,2
+10023,2025-09-14,Aktobe,Smartphone,Electronics,2.0,520,0.1,380,Kaspi,936.0,176.0,9
+10024,2025-10-10,Astana,Pen Set,Stationery,2.0,12,0.05,5,Bank Transfer,22.799999999999997,12.799999999999997,10
+10025,2025-03-04,Astana,Smartphone,Electronics,4.0,520,0.0,380,Bank Transfer,2080.0,560.0,3
+10026,2025-08-10,Aktobe,Desk,Furniture,5.0,180,0.1,110,Kaspi,810.0,260.0,8
+10027,2025-01-13,Shymkent,Desk,Furniture,3.0,180,0.05,110,Bank Transfer,513.0,183.0,1
+10028,2025-06-19,Aktobe,Headphones,Electronics,1.0,75,0.0,35,Card,75.0,40.0,6
+10029,2025-10-13,Shymkent,Desk,Furniture,2.0,180,0.1,110,Bank Transfer,324.0,104.0,10
+10030,2025-08-19,Astana,Watch,Accessories,1.0,130,0.0,75,Kaspi,130.0,55.0,8
+10031,2025-04-26,Aktobe,Watch,Accessories,1.0,130,0.1,75,Kaspi,117.0,42.0,4
+10032,2025-05-17,Aktobe,Notebook,Stationery,1.0,5,0.1,2,Card,4.5,2.5,5
+10033,2025-11-11,Astana,Backpack,Accessories,4.0,48,0.0,22,Card,192.0,104.0,11
+10034,2025-02-21,Karaganda,Laptop,Electronics,2.0,650,0.1,470,Cash,1170.0,230.0,2
+10035,2025-04-23,Astana,Chair,Furniture,3.0,95,0.0,55,Card,285.0,120.0,4
+10036,2025-08-08,Aktobe,Headphones,Electronics,1.0,75,0.0,35,Kaspi,75.0,40.0,8
+10037,2025-02-22,Karaganda,Headphones,Electronics,2.0,75,0.15,35,Card,127.5,57.5,2
+10038,2025-11-20,Shymkent,Pen Set,Stationery,3.0,12,0.0,5,Kaspi,36.0,21.0,11
+10039,2025-10-07,Aktobe,Notebook,Stationery,4.0,5,0.05,2,Card,19.0,11.0,10
+10040,2025-08-28,Astana,Notebook,Stationery,1.0,5,0.15,2,Kaspi,4.25,2.25,8
+10041,2025-12-15,Shymkent,Notebook,Stationery,4.0,5,0.15,2,Kaspi,17.0,9.0,12
+10042,2025-12-12,Shymkent,Desk,Furniture,3.0,180,0.15,110,Bank Transfer,459.0,129.0,12
+10043,2025-11-04,Astana,Pen Set,Stationery,1.0,12,0.15,5,Bank Transfer,10.2,5.199999999999999,11
+10044,2025-12-04,Astana,Pen Set,Stationery,3.0,12,0.15,5,Cash,30.599999999999998,15.599999999999998,12
+10045,2025-05-31,Almaty,Watch,Accessories,3.0,130,0.1,75,Bank Transfer,351.0,126.0,5
+10046,2025-03-01,Astana,Watch,Accessories,2.0,130,0.0,75,Bank Transfer,260.0,110.0,3
+10047,2025-02-06,Shymkent,Chair,Furniture,1.0,95,0.0,55,Kaspi,95.0,40.0,2
+10048,2025-10-31,Shymkent,Smartphone,Electronics,4.0,520,0.15,380,Card,1768.0,248.0,10
+10049,2025-06-10,Karaganda,Backpack,Accessories,3.0,48,0.0,22,Bank Transfer,144.0,78.0,6
+10050,2025-04-14,Karaganda,Desk,Furniture,3.0,180,0.15,110,Card,459.0,129.0,4
+10051,2025-04-09,Astana,Watch,Accessories,5.0,130,0.05,75,Bank Transfer,617.5,242.5,4
+10052,2025-07-13,Shymkent,Headphones,Electronics,5.0,75,0.0,35,Bank Transfer,375.0,200.0,7
+10053,2025-03-09,Astana,Laptop,Electronics,5.0,650,0.15,470,Bank Transfer,2762.5,412.5,3
+10054,2025-05-15,Shymkent,Backpack,Accessories,1.0,48,0.15,22,Cash,40.8,18.799999999999997,5
+10055,2025-01-22,Aktobe,Smartphone,Electronics,3.0,520,0.05,380,Bank Transfer,1482.0,342.0,1
+10056,2025-10-04,Astana,Headphones,Electronics,4.0,75,0.1,35,Bank Transfer,270.0,130.0,10
+10057,2025-11-13,Shymkent,Laptop,Electronics,4.0,650,0.1,470,Bank Transfer,2340.0,460.0,11
+10058,2025-01-17,Karaganda,Laptop,Electronics,4.0,650,0.05,470,Cash,2470.0,590.0,1
+10059,2025-01-06,Shymkent,Chair,Furniture,4.0,95,0.0,55,Cash,380.0,160.0,1
+10060,2025-12-15,Astana,Backpack,Accessories,5.0,48,0.1,22,Kaspi,216.0,106.00000000000001,12
+10061,2025-04-26,Aktobe,Laptop,Electronics,5.0,650,0.15,470,Kaspi,2762.5,412.5,4
+10062,2025-09-13,Shymkent,Laptop,Electronics,2.0,650,0.0,470,Card,1300.0,360.0,9
+10063,2025-02-27,Shymkent,Notebook,Stationery,2.0,5,0.15,2,Kaspi,8.5,4.5,2
+10064,2025-05-31,Almaty,Notebook,Stationery,3.0,5,0.05,2,Card,14.25,8.25,5
+10065,2025-04-14,Astana,Laptop,Electronics,1.0,650,0.1,470,Card,585.0,115.0,4
+10066,2025-06-19,Almaty,Pen Set,Stationery,3.0,12,0.05,5,Cash,34.199999999999996,19.199999999999996,6
+10067,2025-01-13,Karaganda,Backpack,Accessories,2.0,48,0.1,22,Cash,86.4,42.400000000000006,1
+10068,2025-06-22,Karaganda,Desk,Furniture,1.0,180,0.15,110,Bank Transfer,153.0,43.0,6
+10069,2025-05-23,Karaganda,Smartphone,Electronics,2.0,520,0.05,380,Bank Transfer,988.0,228.0,5
+10070,2025-12-08,Shymkent,Pen Set,Stationery,1.0,12,0.05,5,Kaspi,11.399999999999999,6.399999999999999,12
+10071,2025-11-10,Almaty,Notebook,Stationery,1.0,5,0.15,2,Card,4.25,2.25,11
+10072,2025-09-28,Shymkent,Notebook,Stationery,4.0,5,0.0,2,Cash,20.0,12.0,9
+10073,2025-02-22,Karaganda,Backpack,Accessories,4.0,48,0.15,22,Cash,163.2,75.19999999999999,2
+10074,2025-07-15,Aktobe,Pen Set,Stationery,4.0,12,0.05,5,Kaspi,45.599999999999994,25.599999999999994,7
+10075,2025-11-07,Karaganda,Smartphone,Electronics,5.0,520,0.05,380,Bank Transfer,2470.0,570.0,11
+10076,2025-05-25,Shymkent,Smartphone,Electronics,4.0,520,0.05,380,Kaspi,1976.0,456.0,5
+10077,2025-04-27,Astana,Chair,Furniture,4.0,95,0.0,55,Cash,380.0,160.0,4
+10078,2025-08-27,Almaty,Laptop,Electronics,1.0,650,0.15,470,Cash,552.5,82.5,8
+10079,2025-09-29,Aktobe,Chair,Furniture,5.0,95,0.05,55,Cash,451.25,176.25,9
+10080,2025-03-17,Almaty,Pen Set,Stationery,3.0,12,0.0,5,Card,36.0,21.0,3
+10081,2025-10-12,Karaganda,Watch,Accessories,5.0,130,0.1,75,Cash,585.0,210.0,10
+10082,2025-07-23,Almaty,Desk,Furniture,2.0,180,0.15,110,Cash,306.0,86.0,7
+10083,2025-04-10,Astana,Pen Set,Stationery,5.0,12,0.1,5,Card,54.0,29.000000000000004,4
+10084,2025-11-21,Karaganda,Notebook,Stationery,2.0,5,0.15,2,Kaspi,8.5,4.5,11
+10085,2025-04-06,Astana,Smartphone,Electronics,5.0,520,0.0,380,Bank Transfer,2600.0,700.0,4
+10086,2025-12-02,Almaty,Backpack,Accessories,1.0,48,0.15,22,Bank Transfer,40.8,18.799999999999997,12
+10087,2025-06-01,Karaganda,Desk,Furniture,2.0,180,0.1,110,Bank Transfer,324.0,104.0,6
+10088,2025-06-28,Shymkent,Laptop,Electronics,5.0,650,0.15,470,Kaspi,2762.5,412.5,6
+10089,2025-06-17,Almaty,Laptop,Electronics,3.0,650,0.15,470,Cash,1657.5,247.5,6
+10090,2025-09-10,Shymkent,Headphones,Electronics,2.0,75,0.1,35,Kaspi,135.0,65.0,9
+10091,2025-03-31,Aktobe,Laptop,Electronics,2.0,650,0.05,470,Card,1235.0,295.0,3
+10092,2025-04-25,Astana,Headphones,Electronics,4.0,75,0.0,35,Cash,300.0,160.0,4
+10093,2025-03-16,Aktobe,Headphones,Electronics,4.0,75,0.0,35,Cash,300.0,160.0,3
+10094,2025-06-13,Almaty,Watch,Accessories,5.0,130,0.0,75,Bank Transfer,650.0,275.0,6
+10095,2025-06-26,Shymkent,Smartphone,Electronics,4.0,520,0.05,380,Cash,1976.0,456.0,6
+10096,2025-04-06,Aktobe,Pen Set,Stationery,4.0,12,0.0,5,Kaspi,48.0,28.0,4
+10097,2025-08-05,Shymkent,Pen Set,Stationery,1.0,12,0.05,5,Cash,11.399999999999999,6.399999999999999,8
+10098,2025-03-03,Karaganda,Laptop,Electronics,1.0,650,0.05,470,Cash,617.5,147.5,3
+10099,2025-06-26,Karaganda,Smartphone,Electronics,4.0,520,0.0,380,Cash,2080.0,560.0,6
+10100,2025-03-17,Astana,Smartphone,Electronics,4.0,520,0.05,380,Kaspi,1976.0,456.0,3
+10101,2025-12-05,Almaty,Desk,Furniture,5.0,180,0.0,110,Kaspi,900.0,350.0,12
+10102,2025-02-22,Astana,Watch,Accessories,5.0,130,0.0,75,Card,650.0,275.0,2
+10103,2025-08-11,Almaty,Pen Set,Stationery,5.0,12,0.1,5,Kaspi,54.0,29.000000000000004,8
+10104,2025-08-27,Karaganda,Headphones,Electronics,1.0,75,0.05,35,Card,71.25,36.25,8
+10105,2025-09-10,Aktobe,Laptop,Electronics,2.0,650,0.0,470,Card,1300.0,360.0,9
+10106,2025-01-05,Aktobe,Headphones,Electronics,5.0,75,0.05,35,Kaspi,356.25,181.25,1
+10107,2025-12-31,Astana,Backpack,Accessories,4.0,48,0.0,22,Kaspi,192.0,104.0,12
+10108,2025-08-05,Aktobe,Pen Set,Stationery,4.0,12,0.15,5,Card,40.8,20.799999999999997,8
+10109,2025-12-30,Shymkent,Smartphone,Electronics,2.0,520,0.05,380,Kaspi,988.0,228.0,12
+10110,2025-05-06,Shymkent,Pen Set,Stationery,5.0,12,0.0,5,Card,60.0,35.0,5
+10111,2025-11-13,Astana,Desk,Furniture,1.0,180,0.1,110,Cash,162.0,52.0,11
+10112,2025-07-10,Karaganda,Watch,Accessories,1.0,130,0.0,75,Bank Transfer,130.0,55.0,7
+10113,2025-04-27,Almaty,Laptop,Electronics,4.0,650,0.0,470,Bank Transfer,2600.0,720.0,4
+10114,2025-03-21,Aktobe,Chair,Furniture,3.0,95,0.15,55,Cash,242.25,77.25,3
+10115,2025-08-15,Shymkent,Desk,Furniture,4.0,180,0.0,110,Card,720.0,280.0,8
+10116,2025-11-01,Astana,Watch,Accessories,5.0,130,0.05,75,Card,617.5,242.5,11
+10117,2025-05-24,Astana,Smartphone,Electronics,3.0,520,0.15,380,Card,1326.0,186.0,5
+10118,2025-12-24,Karaganda,Backpack,Accessories,4.0,48,0.0,22,Bank Transfer,192.0,104.0,12
+10119,2025-03-31,Almaty,Desk,Furniture,4.0,180,0.05,110,Bank Transfer,684.0,244.0,3
+10120,2025-02-10,Karaganda,Chair,Furniture,3.0,95,0.05,55,Kaspi,270.75,105.75,2
+10121,2025-07-20,Astana,Laptop,Electronics,5.0,650,0.15,470,Cash,2762.5,412.5,7
+10122,2025-09-10,Almaty,Smartphone,Electronics,3.0,520,0.15,380,Cash,1326.0,186.0,9
+10123,2025-01-10,Almaty,Watch,Accessories,3.0,130,0.0,75,Cash,390.0,165.0,1
+10124,2025-10-16,Astana,Pen Set,Stationery,2.0,12,0.15,5,Kaspi,20.4,10.399999999999999,10
+10125,2025-09-24,Aktobe,Laptop,Electronics,2.0,650,0.1,470,Cash,1170.0,230.0,9
+10126,2025-11-11,Shymkent,Notebook,Stationery,1.0,5,0.0,2,Cash,5.0,3.0,11
+10127,2025-04-15,Shymkent,Headphones,Electronics,1.0,75,0.0,35,Bank Transfer,75.0,40.0,4
+10128,2025-01-06,Karaganda,Pen Set,Stationery,1.0,12,0.0,5,Kaspi,12.0,7.0,1
+10129,2025-12-24,Shymkent,Chair,Furniture,5.0,95,0.1,55,Cash,427.5,152.5,12
+10130,2025-06-14,Almaty,Chair,Furniture,2.0,95,0.1,55,Cash,171.0,61.0,6
+10131,2025-03-19,Astana,Chair,Furniture,1.0,95,0.1,55,Cash,85.5,30.5,3
+10132,2025-10-15,Almaty,Desk,Furniture,4.0,180,0.1,110,Bank Transfer,648.0,208.0,10
+10133,2025-06-03,Almaty,Pen Set,Stationery,2.0,12,0.05,5,Card,22.799999999999997,12.799999999999997,6
+10134,2025-11-02,Karaganda,Smartphone,Electronics,1.0,520,0.05,380,Bank Transfer,494.0,114.0,11
+10135,2025-08-10,Shymkent,Chair,Furniture,1.0,95,0.0,55,Bank Transfer,95.0,40.0,8
+10136,2025-07-26,Aktobe,Pen Set,Stationery,5.0,12,0.05,5,Card,57.0,31.999999999999993,7
+10137,2025-04-13,Karaganda,Smartphone,Electronics,2.0,520,0.05,380,Card,988.0,228.0,4
+10138,2025-12-04,Shymkent,Headphones,Electronics,3.0,75,0.1,35,Card,202.5,97.5,12
+10139,2025-09-06,Astana,Desk,Furniture,4.0,180,0.05,110,Kaspi,684.0,244.0,9
+10140,2025-03-22,Aktobe,Smartphone,Electronics,5.0,520,0.15,380,Card,2210.0,310.0,3
+10141,2025-11-26,Astana,Backpack,Accessories,4.0,48,0.15,22,Bank Transfer,163.2,75.19999999999999,11
+10142,2025-02-03,Aktobe,Chair,Furniture,2.0,95,0.0,55,Card,190.0,80.0,2
+10143,2025-04-21,Astana,Smartphone,Electronics,3.0,520,0.05,380,Bank Transfer,1482.0,342.0,4
+10144,2025-12-26,Karaganda,Backpack,Accessories,1.0,48,0.1,22,Bank Transfer,43.2,21.200000000000003,12
+10145,2025-06-04,Aktobe,Smartphone,Electronics,2.0,520,0.0,380,Card,1040.0,280.0,6
+10146,2025-10-04,Aktobe,Smartphone,Electronics,2.0,520,0.15,380,Card,884.0,124.0,10
+10147,2025-11-22,Astana,Notebook,Stationery,5.0,5,0.0,2,Bank Transfer,25.0,15.0,11
+10148,2025-03-19,Almaty,Headphones,Electronics,5.0,75,0.1,35,Cash,337.5,162.5,3
+10149,2025-02-16,Astana,Watch,Accessories,3.0,130,0.1,75,Bank Transfer,351.0,126.0,2
+10150,2025-01-26,Karaganda,Laptop,Electronics,1.0,650,0.15,470,Cash,552.5,82.5,1
+10151,2025-09-10,Karaganda,Smartphone,Electronics,2.0,520,0.15,380,Kaspi,884.0,124.0,9
+10152,2025-12-31,Almaty,Backpack,Accessories,3.0,48,0.15,22,Kaspi,122.39999999999999,56.39999999999999,12
+10153,2025-01-03,Shymkent,Pen Set,Stationery,4.0,12,0.0,5,Card,48.0,28.0,1
+10154,2025-08-15,Shymkent,Notebook,Stationery,1.0,5,0.1,2,Cash,4.5,2.5,8
+10155,2025-09-30,Almaty,Pen Set,Stationery,4.0,12,0.0,5,Cash,48.0,28.0,9
+10156,2025-01-25,Karaganda,Desk,Furniture,2.0,180,0.1,110,Cash,324.0,104.0,1
+10157,2025-04-21,Karaganda,Headphones,Electronics,2.0,75,0.1,35,Bank Transfer,135.0,65.0,4
+10158,2025-08-24,Shymkent,Backpack,Accessories,2.0,48,0.0,22,Cash,96.0,52.0,8
+10159,2025-06-29,Almaty,Notebook,Stationery,2.0,5,0.1,2,Bank Transfer,9.0,5.0,6
+10160,2025-08-17,Astana,Notebook,Stationery,1.0,5,0.0,2,Card,5.0,3.0,8
+10161,2025-07-17,Karaganda,Chair,Furniture,3.0,95,0.05,55,Card,270.75,105.75,7
+10162,2025-11-07,Astana,Backpack,Accessories,3.0,48,0.1,22,Kaspi,129.6,63.60000000000001,11
+10163,2025-08-17,Karaganda,Backpack,Accessories,2.0,48,0.15,22,Bank Transfer,81.6,37.599999999999994,8
+10164,2025-12-01,Astana,Desk,Furniture,3.0,180,0.05,110,Cash,513.0,183.0,12
+10165,2025-12-01,Shymkent,Headphones,Electronics,2.0,75,0.1,35,Cash,135.0,65.0,12
+10166,2025-11-22,Almaty,Chair,Furniture,4.0,95,0.1,55,Bank Transfer,342.0,122.0,11
+10167,2025-01-20,Astana,Laptop,Electronics,4.0,650,0.1,470,Cash,2340.0,460.0,1
+10168,2025-10-20,Shymkent,Notebook,Stationery,4.0,5,0.0,2,Kaspi,20.0,12.0,10
+10169,2025-06-10,Almaty,Smartphone,Electronics,2.0,520,0.0,380,Kaspi,1040.0,280.0,6
+10170,2025-01-13,Almaty,Headphones,Electronics,4.0,75,0.0,35,Kaspi,300.0,160.0,1
+10171,2025-11-25,Astana,Chair,Furniture,1.0,95,0.1,55,Kaspi,85.5,30.5,11
+10172,2025-02-07,Shymkent,Backpack,Accessories,1.0,48,0.0,22,Card,48.0,26.0,2
+10173,2025-11-30,Aktobe,Headphones,Electronics,3.0,75,0.0,35,Card,225.0,120.0,11
+10174,2025-02-04,Astana,Smartphone,Electronics,4.0,520,0.15,380,Cash,1768.0,248.0,2
+10175,2025-09-24,Astana,Backpack,Accessories,5.0,48,0.05,22,Bank Transfer,228.0,117.99999999999997,9
+10176,2025-08-01,Aktobe,Smartphone,Electronics,5.0,520,0.1,380,Kaspi,2340.0,440.0,8
+10177,2025-03-30,Aktobe,Desk,Furniture,2.0,180,0.0,110,Card,360.0,140.0,3
+10178,2025-11-24,Shymkent,Backpack,Accessories,5.0,48,0.05,22,Cash,228.0,117.99999999999997,11
+10179,2025-03-04,Astana,Pen Set,Stationery,1.0,12,0.0,5,Cash,12.0,7.0,3
+10180,2025-11-05,Shymkent,Pen Set,Stationery,3.0,12,0.05,5,Card,34.199999999999996,19.199999999999996,11
+10181,2025-06-28,Almaty,Smartphone,Electronics,4.0,520,0.1,380,Kaspi,1872.0,352.0,6
+10182,2025-08-19,Shymkent,Laptop,Electronics,4.0,650,0.0,470,Card,2600.0,720.0,8
+10183,2025-04-07,Aktobe,Watch,Accessories,5.0,130,0.1,75,Kaspi,585.0,210.0,4
+10184,2025-09-11,Karaganda,Laptop,Electronics,2.0,650,0.05,470,Cash,1235.0,295.0,9
+10185,2025-04-28,Aktobe,Laptop,Electronics,4.0,650,0.0,470,Bank Transfer,2600.0,720.0,4
+10186,2025-07-03,Aktobe,Desk,Furniture,5.0,180,0.0,110,Kaspi,900.0,350.0,7
+10187,2025-11-28,Aktobe,Desk,Furniture,2.0,180,0.1,110,Kaspi,324.0,104.0,11
+10188,2025-08-31,Karaganda,Smartphone,Electronics,4.0,520,0.05,380,Kaspi,1976.0,456.0,8
+10189,2025-05-28,Shymkent,Chair,Furniture,2.0,95,0.15,55,Card,161.5,51.5,5
+10190,2025-07-19,Almaty,Notebook,Stationery,3.0,5,0.15,2,Card,12.75,6.75,7
+10191,2025-07-29,Astana,Backpack,Accessories,1.0,48,0.1,22,Bank Transfer,43.2,21.200000000000003,7
+10192,2025-11-20,Aktobe,Desk,Furniture,5.0,180,0.15,110,Kaspi,765.0,215.0,11
+10193,2025-04-02,Almaty,Laptop,Electronics,1.0,650,0.05,470,Kaspi,617.5,147.5,4
+10194,2025-10-24,Shymkent,Backpack,Accessories,1.0,48,0.05,22,Cash,45.599999999999994,23.599999999999994,10
+10195,2025-12-12,Karaganda,Chair,Furniture,1.0,95,0.0,55,Kaspi,95.0,40.0,12
+10196,2025-02-24,Shymkent,Notebook,Stationery,5.0,5,0.1,2,Cash,22.5,12.5,2
+10197,2025-05-17,Almaty,Chair,Furniture,4.0,95,0.0,55,Cash,380.0,160.0,5
+10198,2025-10-18,Karaganda,Watch,Accessories,1.0,130,0.05,75,Kaspi,123.5,48.5,10
+10199,2025-07-29,Shymkent,Notebook,Stationery,2.0,5,0.1,2,Cash,9.0,5.0,7
+10200,2025-07-01,Astana,Smartphone,Electronics,4.0,520,0.05,380,Cash,1976.0,456.0,7
+10201,2025-06-10,Astana,Backpack,Accessories,5.0,48,0.1,22,Kaspi,216.0,106.00000000000001,6
+10202,2025-06-03,Karaganda,Notebook,Stationery,2.0,5,0.0,2,Cash,10.0,6.0,6
+10203,2025-12-03,Karaganda,Pen Set,Stationery,1.0,12,0.0,5,Bank Transfer,12.0,7.0,12
+10204,2025-12-08,Karaganda,Notebook,Stationery,5.0,5,0.15,2,Cash,21.25,11.25,12
+10205,2025-09-14,Aktobe,Pen Set,Stationery,3.0,12,0.1,5,Bank Transfer,32.4,17.400000000000002,9
+10206,2025-11-14,Aktobe,Smartphone,Electronics,1.0,520,0.0,380,Cash,520.0,140.0,11
+10207,2025-01-19,Almaty,Backpack,Accessories,1.0,48,0.05,22,Kaspi,45.599999999999994,23.599999999999994,1
+10208,2025-07-13,Unknown,Headphones,Electronics,1.0,75,0.05,35,Card,71.25,36.25,7
+10209,2025-11-15,Karaganda,Notebook,Stationery,1.0,5,0.15,2,Cash,4.25,2.25,11
+10210,2025-12-25,Shymkent,Pen Set,Stationery,2.0,12,0.05,5,Kaspi,22.799999999999997,12.799999999999997,12
+10211,2025-03-28,Karaganda,Headphones,Electronics,2.0,75,0.1,35,Cash,135.0,65.0,3
+10212,2025-11-17,Astana,Backpack,Accessories,3.0,48,0.15,22,Kaspi,122.39999999999999,56.39999999999999,11
+10213,2025-02-23,Astana,Backpack,Accessories,5.0,48,0.1,22,Kaspi,216.0,106.00000000000001,2
+10214,2025-04-02,Almaty,Laptop,Electronics,3.0,650,0.15,470,Bank Transfer,1657.5,247.5,4
+10215,2025-10-29,Shymkent,Backpack,Accessories,4.0,48,0.15,22,Cash,163.2,75.19999999999999,10
+10216,2025-08-11,Almaty,Notebook,Stationery,2.0,5,0.1,2,Cash,9.0,5.0,8
+10217,2025-03-26,Shymkent,Pen Set,Stationery,5.0,12,0.1,5,Bank Transfer,54.0,29.000000000000004,3
+10218,2025-01-02,Astana,Headphones,Electronics,5.0,75,0.15,35,Kaspi,318.75,143.75,1
+10219,2025-07-14,Karaganda,Headphones,Electronics,4.0,75,0.0,35,Cash,300.0,160.0,7
+10220,2025-09-13,Astana,Notebook,Stationery,2.0,5,0.0,2,Bank Transfer,10.0,6.0,9
+10221,2025-12-08,Karaganda,Smartphone,Electronics,1.0,520,0.05,380,Card,494.0,114.0,12
+10222,2025-02-28,Astana,Backpack,Accessories,2.0,48,0.1,22,Cash,86.4,42.400000000000006,2
+10223,2025-02-09,Almaty,Watch,Accessories,5.0,130,0.0,75,Kaspi,650.0,275.0,2
+10224,2025-09-03,Shymkent,Watch,Accessories,4.0,130,0.05,75,Card,494.0,194.0,9
+10225,2025-08-03,Aktobe,Headphones,Electronics,3.0,75,0.05,35,Card,213.75,108.75,8
+10226,2025-02-11,Karaganda,Chair,Furniture,1.0,95,0.05,55,Card,90.25,35.25,2
+10227,2025-06-14,Astana,Laptop,Electronics,2.0,650,0.15,470,Kaspi,1105.0,165.0,6
+10228,2025-12-28,Aktobe,Chair,Furniture,3.0,95,0.0,55,Kaspi,285.0,120.0,12
+10229,2025-08-07,Almaty,Notebook,Stationery,4.0,5,0.0,2,Cash,20.0,12.0,8
+10230,2025-06-22,Astana,Chair,Furniture,2.0,95,0.0,55,Bank Transfer,190.0,80.0,6
+10231,2025-11-06,Shymkent,Headphones,Electronics,1.0,75,0.1,35,Cash,67.5,32.5,11
+10232,2025-10-09,Aktobe,Desk,Furniture,5.0,180,0.1,110,Bank Transfer,810.0,260.0,10
+10233,2025-04-23,Shymkent,Desk,Furniture,3.0,180,0.05,110,Card,513.0,183.0,4
+10234,2025-04-21,Aktobe,Pen Set,Stationery,1.0,12,0.05,5,Bank Transfer,11.399999999999999,6.399999999999999,4
+10235,2025-08-15,Karaganda,Desk,Furniture,3.0,180,0.0,110,Card,540.0,210.0,8
+10236,2025-07-20,Almaty,Headphones,Electronics,2.0,75,0.0,35,Cash,150.0,80.0,7
+10237,2025-10-23,Astana,Watch,Accessories,1.0,130,0.0,75,Cash,130.0,55.0,10
+10238,2025-02-11,Astana,Backpack,Accessories,3.0,48,0.1,22,Card,129.6,63.60000000000001,2
+10239,2025-04-18,Karaganda,Chair,Furniture,3.0,95,0.05,55,Card,270.75,105.75,4
+10240,2025-01-12,Shymkent,Headphones,Electronics,5.0,75,0.15,35,Kaspi,318.75,143.75,1
+10241,2025-01-17,Almaty,Laptop,Electronics,1.0,650,0.1,470,Cash,585.0,115.0,1
+10242,2025-12-05,Aktobe,Backpack,Accessories,1.0,48,0.1,22,Cash,43.2,21.200000000000003,12
+10243,2025-07-17,Astana,Notebook,Stationery,2.0,5,0.0,2,Bank Transfer,10.0,6.0,7
+10244,2025-12-31,Almaty,Watch,Accessories,2.0,130,0.15,75,Kaspi,221.0,71.0,12
+10245,2025-10-09,Aktobe,Laptop,Electronics,2.0,650,0.1,470,Card,1170.0,230.0,10
+10246,2025-01-07,Astana,Chair,Furniture,3.0,95,0.15,55,Bank Transfer,242.25,77.25,1
+10247,2025-11-11,Aktobe,Headphones,Electronics,2.0,75,0.1,35,Card,135.0,65.0,11
+10248,2025-04-13,Astana,Desk,Furniture,3.0,180,0.15,110,Bank Transfer,459.0,129.0,4
+10249,2025-05-11,Aktobe,Headphones,Electronics,3.0,75,0.15,35,Card,191.25,86.25,5
+10250,2025-12-30,Astana,Pen Set,Stationery,4.0,12,0.0,5,Card,48.0,28.0,12
+10251,2025-07-29,Astana,Watch,Accessories,5.0,130,0.05,75,Bank Transfer,617.5,242.5,7
+10252,2025-11-07,Shymkent,Headphones,Electronics,2.0,75,0.05,35,Card,142.5,72.5,11
+10253,2025-09-26,Aktobe,Pen Set,Stationery,2.0,12,0.15,5,Bank Transfer,20.4,10.399999999999999,9
+10254,2025-02-08,Karaganda,Smartphone,Electronics,5.0,520,0.05,380,Cash,2470.0,570.0,2
+10255,2025-08-24,Astana,Chair,Furniture,4.0,95,0.1,55,Cash,342.0,122.0,8
+10256,2025-12-25,Karaganda,Watch,Accessories,5.0,130,0.0,75,Card,650.0,275.0,12
+10257,2025-01-03,Aktobe,Laptop,Electronics,2.0,650,0.15,470,Card,1105.0,165.0,1
+10258,2025-06-02,Astana,Chair,Furniture,5.0,95,0.05,55,Kaspi,451.25,176.25,6
+10259,2025-11-01,Astana,Watch,Accessories,4.0,130,0.15,75,Kaspi,442.0,142.0,11
+10260,2025-03-02,Aktobe,Chair,Furniture,3.0,95,0.15,55,Card,242.25,77.25,3
+10261,2025-11-15,Shymkent,Pen Set,Stationery,5.0,12,0.05,5,Cash,57.0,31.999999999999993,11
+10262,2025-02-21,Karaganda,Pen Set,Stationery,3.0,12,0.15,5,Bank Transfer,30.599999999999998,15.599999999999998,2
+10263,2025-08-31,Aktobe,Notebook,Stationery,2.0,5,0.1,2,Card,9.0,5.0,8
+10264,2025-08-06,Astana,Watch,Accessories,1.0,130,0.05,75,Kaspi,123.5,48.5,8
+10265,2025-09-19,Aktobe,Backpack,Accessories,5.0,48,0.05,22,Kaspi,228.0,117.99999999999997,9
+10266,2025-06-26,Astana,Pen Set,Stationery,3.0,12,0.15,5,Card,30.599999999999998,15.599999999999998,6
+10267,2025-03-02,Shymkent,Laptop,Electronics,2.0,650,0.1,470,Card,1170.0,230.0,3
+10268,2025-03-03,Astana,Headphones,Electronics,3.0,75,0.15,35,Kaspi,191.25,86.25,3
+10269,2025-09-26,Aktobe,Notebook,Stationery,1.0,5,0.0,2,Bank Transfer,5.0,3.0,9
+10270,2025-04-08,Shymkent,Chair,Furniture,1.0,95,0.15,55,Kaspi,80.75,25.75,4
+10271,2025-07-14,Astana,Watch,Accessories,2.0,130,0.15,75,Card,221.0,71.0,7
+10272,2025-02-09,Astana,Watch,Accessories,5.0,130,0.1,75,Kaspi,585.0,210.0,2
+10273,2025-05-04,Shymkent,Headphones,Electronics,5.0,75,0.15,35,Card,318.75,143.75,5
+10274,2025-02-06,Karaganda,Headphones,Electronics,5.0,75,0.15,35,Cash,318.75,143.75,2
+10275,2025-04-24,Aktobe,Laptop,Electronics,5.0,650,0.1,470,Card,2925.0,575.0,4
+10276,2025-02-25,Almaty,Smartphone,Electronics,3.0,520,0.0,380,Cash,1560.0,420.0,2
+10277,2025-09-19,Shymkent,Laptop,Electronics,4.0,650,0.0,470,Kaspi,2600.0,720.0,9
+10278,2025-09-26,Shymkent,Watch,Accessories,5.0,130,0.0,75,Cash,650.0,275.0,9
+10279,2025-07-10,Shymkent,Desk,Furniture,4.0,180,0.1,110,Cash,648.0,208.0,7
+10280,2025-01-31,Almaty,Watch,Accessories,2.0,130,0.15,75,Kaspi,221.0,71.0,1
+10281,2025-06-07,Almaty,Chair,Furniture,4.0,95,0.05,55,Card,361.0,141.0,6
+10282,2025-08-12,Aktobe,Pen Set,Stationery,3.0,12,0.0,5,Cash,36.0,21.0,8
+10283,2025-12-26,Almaty,Laptop,Electronics,4.0,650,0.15,470,Bank Transfer,2210.0,330.0,12
+10284,2025-11-22,Shymkent,Smartphone,Electronics,2.0,520,0.0,380,Bank Transfer,1040.0,280.0,11
+10285,2025-11-15,Karaganda,Headphones,Electronics,4.0,75,0.1,35,Card,270.0,130.0,11
+10286,2025-10-05,Karaganda,Chair,Furniture,4.0,95,0.15,55,Bank Transfer,323.0,103.0,10
+10287,2025-11-20,Shymkent,Headphones,Electronics,1.0,75,0.15,35,Card,63.75,28.75,11
+10288,2025-07-12,Almaty,Laptop,Electronics,3.0,650,0.05,470,Card,1852.5,442.5,7
+10289,2025-09-08,Shymkent,Desk,Furniture,4.0,180,0.0,110,Bank Transfer,720.0,280.0,9
+10290,2025-01-29,Shymkent,Pen Set,Stationery,1.0,12,0.05,5,Kaspi,11.399999999999999,6.399999999999999,1
+10291,2025-02-27,Almaty,Smartphone,Electronics,2.0,520,0.05,380,Card,988.0,228.0,2
+10292,2025-04-09,Aktobe,Desk,Furniture,1.0,180,0.1,110,Kaspi,162.0,52.0,4
+10293,2025-10-12,Aktobe,Pen Set,Stationery,3.0,12,0.15,5,Bank Transfer,30.599999999999998,15.599999999999998,10
+10294,2025-06-24,Karaganda,Headphones,Electronics,3.0,75,0.1,35,Kaspi,202.5,97.5,6
+10295,2025-08-24,Karaganda,Laptop,Electronics,5.0,650,0.0,470,Kaspi,3250.0,900.0,8
+10296,2025-03-25,Shymkent,Chair,Furniture,1.0,95,0.0,55,Kaspi,95.0,40.0,3
+10297,2025-02-27,Karaganda,Laptop,Electronics,2.0,650,0.0,470,Kaspi,1300.0,360.0,2
+10298,2025-10-08,Karaganda,Laptop,Electronics,2.0,650,0.1,470,Bank Transfer,1170.0,230.0,10
+10299,2025-03-01,Astana,Backpack,Accessories,1.0,48,0.0,22,Cash,48.0,26.0,3
+10300,2025-03-20,Shymkent,Backpack,Accessories,2.0,48,0.15,22,Kaspi,81.6,37.599999999999994,3
+10301,2025-12-15,Karaganda,Smartphone,Electronics,5.0,520,0.15,380,Bank Transfer,2210.0,310.0,12
+10302,2025-02-15,Astana,Smartphone,Electronics,1.0,520,0.05,380,Bank Transfer,494.0,114.0,2
+10303,2025-08-16,Astana,Desk,Furniture,1.0,180,0.15,110,Kaspi,153.0,43.0,8
+10304,2025-04-27,Almaty,Notebook,Stationery,3.0,5,0.15,2,Cash,12.75,6.75,4
+10305,2025-03-13,Aktobe,Laptop,Electronics,2.0,650,0.05,470,Bank Transfer,1235.0,295.0,3
+10306,2025-04-05,Shymkent,Headphones,Electronics,5.0,75,0.0,35,Cash,375.0,200.0,4
+10307,2025-09-24,Shymkent,Notebook,Stationery,1.0,5,0.0,2,Bank Transfer,5.0,3.0,9
+10308,2025-02-15,Karaganda,Watch,Accessories,4.0,130,0.0,75,Card,520.0,220.0,2
+10309,2025-08-30,Karaganda,Backpack,Accessories,1.0,48,0.05,22,Cash,45.599999999999994,23.599999999999994,8
+10310,2025-08-21,Aktobe,Laptop,Electronics,1.0,650,0.0,470,Bank Transfer,650.0,180.0,8
+10311,2025-04-13,Almaty,Notebook,Stationery,2.0,5,0.05,2,Card,9.5,5.5,4
+10312,2025-05-23,Almaty,Headphones,Electronics,2.0,75,0.1,35,Bank Transfer,135.0,65.0,5
+10313,2025-12-26,Shymkent,Laptop,Electronics,5.0,650,0.1,470,Kaspi,2925.0,575.0,12
+10314,2025-01-09,Astana,Notebook,Stationery,1.0,5,0.05,2,Bank Transfer,4.75,2.75,1
+10315,2025-11-24,Almaty,Backpack,Accessories,4.0,48,0.05,22,Bank Transfer,182.39999999999998,94.39999999999998,11
+10316,2025-03-25,Karaganda,Pen Set,Stationery,2.0,12,0.05,5,Card,22.799999999999997,12.799999999999997,3
+10317,2025-05-07,Astana,Smartphone,Electronics,4.0,520,0.05,380,Card,1976.0,456.0,5
+10318,2025-01-12,Karaganda,Headphones,Electronics,5.0,75,0.0,35,Cash,375.0,200.0,1
+10319,2025-05-02,Shymkent,Smartphone,Electronics,4.0,520,0.0,380,Bank Transfer,2080.0,560.0,5
+10320,2025-11-05,Shymkent,Pen Set,Stationery,4.0,12,0.05,5,Card,45.599999999999994,25.599999999999994,11
+10321,2025-07-30,Aktobe,Headphones,Electronics,1.0,75,0.1,35,Kaspi,67.5,32.5,7
+10322,2025-02-04,Aktobe,Smartphone,Electronics,5.0,520,0.05,380,Kaspi,2470.0,570.0,2
+10323,2025-11-28,Astana,Laptop,Electronics,5.0,650,0.1,470,Card,2925.0,575.0,11
+10324,2025-10-20,Karaganda,Backpack,Accessories,4.0,48,0.15,22,Card,163.2,75.19999999999999,10
+10325,2025-06-01,Almaty,Desk,Furniture,1.0,180,0.1,110,Bank Transfer,162.0,52.0,6
+10326,2025-09-07,Aktobe,Watch,Accessories,2.0,130,0.15,75,Bank Transfer,221.0,71.0,9
+10327,2025-12-01,Almaty,Headphones,Electronics,4.0,75,0.05,35,Kaspi,285.0,145.0,12
+10328,2025-07-05,Aktobe,Smartphone,Electronics,4.0,520,0.1,380,Cash,1872.0,352.0,7
+10329,2025-02-09,Aktobe,Headphones,Electronics,1.0,75,0.1,35,Card,67.5,32.5,2
+10330,2025-04-10,Almaty,Backpack,Accessories,4.0,48,0.05,22,Card,182.39999999999998,94.39999999999998,4
+10331,2025-10-20,Aktobe,Headphones,Electronics,5.0,75,0.0,35,Card,375.0,200.0,10
+10332,2025-11-12,Aktobe,Notebook,Stationery,1.0,5,0.15,2,Card,4.25,2.25,11
+10333,2025-11-22,Astana,Pen Set,Stationery,3.0,12,0.0,5,Cash,36.0,21.0,11
+10334,2025-06-12,Aktobe,Headphones,Electronics,5.0,75,0.1,35,Cash,337.5,162.5,6
+10335,2025-06-13,Aktobe,Backpack,Accessories,3.0,48,0.05,22,Kaspi,136.79999999999998,70.79999999999998,6
+10336,2025-09-27,Almaty,Notebook,Stationery,5.0,5,0.05,2,Bank Transfer,23.75,13.75,9
+10337,2025-09-14,Aktobe,Watch,Accessories,4.0,130,0.15,75,Kaspi,442.0,142.0,9
+10338,2025-11-09,Karaganda,Laptop,Electronics,4.0,650,0.0,470,Kaspi,2600.0,720.0,11
+10339,2025-06-24,Aktobe,Chair,Furniture,4.0,95,0.0,55,Cash,380.0,160.0,6
+10340,2025-04-30,Karaganda,Laptop,Electronics,4.0,650,0.1,470,Kaspi,2340.0,460.0,4
+10341,2025-04-18,Shymkent,Notebook,Stationery,5.0,5,0.15,2,Card,21.25,11.25,4
+10342,2025-10-20,Karaganda,Headphones,Electronics,2.0,75,0.0,35,Cash,150.0,80.0,10
+10343,2025-02-04,Aktobe,Pen Set,Stationery,5.0,12,0.1,5,Cash,54.0,29.000000000000004,2
+10344,2025-06-28,Karaganda,Laptop,Electronics,2.0,650,0.15,470,Cash,1105.0,165.0,6
+10345,2025-08-04,Shymkent,Headphones,Electronics,3.0,75,0.05,35,Card,213.75,108.75,8
+10346,2025-11-02,Aktobe,Watch,Accessories,1.0,130,0.1,75,Kaspi,117.0,42.0,11
+10347,2025-06-27,Karaganda,Backpack,Accessories,4.0,48,0.1,22,Bank Transfer,172.8,84.80000000000001,6
+10348,2025-12-02,Almaty,Desk,Furniture,2.0,180,0.15,110,Kaspi,306.0,86.0,12
+10349,2025-12-07,Astana,Backpack,Accessories,5.0,48,0.15,22,Card,204.0,93.99999999999999,12
+10350,2025-03-27,Almaty,Chair,Furniture,1.0,95,0.1,55,Kaspi,85.5,30.5,3
+10351,2025-05-25,Almaty,Headphones,Electronics,1.0,75,0.15,35,Kaspi,63.75,28.75,5
+10352,2025-12-11,Karaganda,Backpack,Accessories,1.0,48,0.0,22,Kaspi,48.0,26.0,12
+10353,2025-10-31,Aktobe,Chair,Furniture,1.0,95,0.05,55,Card,90.25,35.25,10
+10354,2025-07-11,Astana,Headphones,Electronics,1.0,75,0.0,35,Cash,75.0,40.0,7
+10355,2025-09-02,Aktobe,Watch,Accessories,1.0,130,0.1,75,Bank Transfer,117.0,42.0,9
+10356,2025-04-12,Karaganda,Headphones,Electronics,3.0,75,0.05,35,Card,213.75,108.75,4
+10357,2025-10-06,Shymkent,Headphones,Electronics,5.0,75,0.1,35,Cash,337.5,162.5,10
+10358,2025-11-06,Astana,Backpack,Accessories,5.0,48,0.1,22,Cash,216.0,106.00000000000001,11
+10359,2025-05-23,Aktobe,Pen Set,Stationery,3.0,12,0.15,5,Cash,30.599999999999998,15.599999999999998,5
+10360,2025-11-01,Astana,Watch,Accessories,3.0,130,0.15,75,Card,331.5,106.5,11
+10361,2025-04-20,Almaty,Smartphone,Electronics,2.0,520,0.05,380,Cash,988.0,228.0,4
+10362,2025-03-26,Almaty,Smartphone,Electronics,2.0,520,0.05,380,Bank Transfer,988.0,228.0,3
+10363,2025-08-09,Almaty,Chair,Furniture,1.0,95,0.15,55,Cash,80.75,25.75,8
+10364,2025-10-31,Aktobe,Headphones,Electronics,4.0,75,0.15,35,Kaspi,255.0,115.0,10
+10365,2025-11-22,Almaty,Pen Set,Stationery,4.0,12,0.1,5,Kaspi,43.2,23.200000000000003,11
+10366,2025-04-17,Aktobe,Chair,Furniture,4.0,95,0.1,55,Cash,342.0,122.0,4
+10367,2025-07-22,Shymkent,Desk,Furniture,4.0,180,0.0,110,Cash,720.0,280.0,7
+10368,2025-10-02,Almaty,Notebook,Stationery,5.0,5,0.15,2,Bank Transfer,21.25,11.25,10
+10369,2025-02-21,Shymkent,Chair,Furniture,5.0,95,0.1,55,Bank Transfer,427.5,152.5,2
+10370,2025-05-16,Almaty,Smartphone,Electronics,4.0,520,0.05,380,Card,1976.0,456.0,5
+10371,2025-03-18,Karaganda,Headphones,Electronics,2.0,75,0.0,35,Card,150.0,80.0,3
+10372,2025-12-17,Karaganda,Pen Set,Stationery,2.0,12,0.1,5,Cash,21.6,11.600000000000001,12
+10373,2025-11-08,Astana,Pen Set,Stationery,2.0,12,0.0,5,Card,24.0,14.0,11
+10374,2025-02-05,Karaganda,Backpack,Accessories,4.0,48,0.05,22,Kaspi,182.39999999999998,94.39999999999998,2
+10375,2025-06-21,Aktobe,Notebook,Stationery,2.0,5,0.1,2,Kaspi,9.0,5.0,6
+10376,2025-04-28,Aktobe,Pen Set,Stationery,4.0,12,0.0,5,Card,48.0,28.0,4
+10377,2025-09-28,Almaty,Watch,Accessories,2.0,130,0.0,75,Cash,260.0,110.0,9
+10378,2025-06-01,Astana,Backpack,Accessories,2.0,48,0.1,22,Cash,86.4,42.400000000000006,6
+10379,2025-02-19,Shymkent,Desk,Furniture,4.0,180,0.15,110,Kaspi,612.0,172.0,2
+10380,2025-05-26,Shymkent,Watch,Accessories,4.0,130,0.05,75,Cash,494.0,194.0,5
+10381,2025-08-30,Aktobe,Pen Set,Stationery,1.0,12,0.1,5,Bank Transfer,10.8,5.800000000000001,8
+10382,2025-06-10,Aktobe,Headphones,Electronics,1.0,75,0.05,35,Bank Transfer,71.25,36.25,6
+10383,2025-05-23,Shymkent,Chair,Furniture,4.0,95,0.1,55,Bank Transfer,342.0,122.0,5
+10384,2025-03-19,Aktobe,Watch,Accessories,5.0,130,0.0,75,Card,650.0,275.0,3
+10385,2025-09-15,Shymkent,Watch,Accessories,5.0,130,0.05,75,Kaspi,617.5,242.5,9
+10386,2025-05-05,Astana,Notebook,Stationery,1.0,5,0.1,2,Kaspi,4.5,2.5,5
+10387,2025-07-07,Shymkent,Backpack,Accessories,4.0,48,0.05,22,Card,182.39999999999998,94.39999999999998,7
+10388,2025-04-19,Karaganda,Pen Set,Stationery,5.0,12,0.0,5,Bank Transfer,60.0,35.0,4
+10389,2025-03-14,Astana,Smartphone,Electronics,3.0,520,0.05,380,Cash,1482.0,342.0,3
+10390,2025-07-15,Aktobe,Pen Set,Stationery,1.0,12,0.15,5,Card,10.2,5.199999999999999,7
+10391,2025-01-27,Aktobe,Chair,Furniture,2.0,95,0.1,55,Card,171.0,61.0,1
+10392,2025-12-08,Almaty,Smartphone,Electronics,4.0,520,0.05,380,Card,1976.0,456.0,12
+10393,2025-10-18,Almaty,Laptop,Electronics,4.0,650,0.15,470,Card,2210.0,330.0,10
+10394,2025-11-29,Aktobe,Desk,Furniture,1.0,180,0.1,110,Bank Transfer,162.0,52.0,11
+10395,2025-02-24,Karaganda,Watch,Accessories,1.0,130,0.15,75,Bank Transfer,110.5,35.5,2
+10396,2025-01-03,Aktobe,Backpack,Accessories,4.0,48,0.1,22,Bank Transfer,172.8,84.80000000000001,1
+10397,2025-01-05,Karaganda,Notebook,Stationery,4.0,5,0.0,2,Cash,20.0,12.0,1
+10398,2025-03-25,Almaty,Chair,Furniture,1.0,95,0.0,55,Bank Transfer,95.0,40.0,3
+10399,2025-08-14,Aktobe,Notebook,Stationery,4.0,5,0.0,2,Kaspi,20.0,12.0,8
+10400,2025-08-25,Almaty,Headphones,Electronics,1.0,75,0.0,35,Card,75.0,40.0,8
+10401,2025-11-27,Shymkent,Watch,Accessories,4.0,130,0.05,75,Kaspi,494.0,194.0,11
+10402,2025-11-07,Shymkent,Desk,Furniture,3.0,180,0.1,110,Card,486.0,156.0,11
+10403,2025-09-01,Almaty,Chair,Furniture,4.0,95,0.1,55,Cash,342.0,122.0,9
+10404,2025-03-23,Aktobe,Notebook,Stationery,3.0,5,0.05,2,Bank Transfer,14.25,8.25,3
+10405,2025-03-08,Karaganda,Notebook,Stationery,1.0,5,0.1,2,Cash,4.5,2.5,3
+10406,2025-03-07,Shymkent,Smartphone,Electronics,2.0,520,0.1,380,Card,936.0,176.0,3
+10407,2025-09-13,Almaty,Desk,Furniture,1.0,180,0.05,110,Cash,171.0,61.0,9
+10408,2025-10-16,Karaganda,Notebook,Stationery,1.0,5,0.05,2,Bank Transfer,4.75,2.75,10
+10409,2025-08-26,Aktobe,Notebook,Stationery,4.0,5,0.1,2,Kaspi,18.0,10.0,8
+10410,2025-01-25,Aktobe,Watch,Accessories,5.0,130,0.05,75,Bank Transfer,617.5,242.5,1
+10411,2025-01-25,Karaganda,Chair,Furniture,5.0,95,0.15,55,Bank Transfer,403.75,128.75,1
+10412,2025-05-26,Aktobe,Desk,Furniture,4.0,180,0.1,110,Card,648.0,208.0,5
+10413,2025-03-01,Shymkent,Headphones,Electronics,3.0,75,0.0,35,Kaspi,225.0,120.0,3
+10414,2025-09-23,Astana,Headphones,Electronics,2.0,75,0.05,35,Kaspi,142.5,72.5,9
+10415,2025-09-10,Astana,Headphones,Electronics,3.0,75,0.0,35,Kaspi,225.0,120.0,9
+10416,2025-11-25,Karaganda,Chair,Furniture,3.0,95,0.1,55,Bank Transfer,256.5,91.5,11
+10417,2025-09-17,Karaganda,Laptop,Electronics,1.0,650,0.0,470,Kaspi,650.0,180.0,9
+10418,2025-08-09,Karaganda,Desk,Furniture,4.0,180,0.15,110,Card,612.0,172.0,8
+10419,2025-06-27,Aktobe,Pen Set,Stationery,4.0,12,0.1,5,Card,43.2,23.200000000000003,6
+10420,2025-01-07,Shymkent,Smartphone,Electronics,4.0,520,0.05,380,Card,1976.0,456.0,1
+10421,2025-08-17,Aktobe,Pen Set,Stationery,5.0,12,0.05,5,Kaspi,57.0,31.999999999999993,8
+10422,2025-03-03,Shymkent,Headphones,Electronics,5.0,75,0.05,35,Card,356.25,181.25,3
+10423,2025-05-18,Almaty,Chair,Furniture,5.0,95,0.0,55,Cash,475.0,200.0,5
+10424,2025-08-30,Aktobe,Chair,Furniture,5.0,95,0.0,55,Card,475.0,200.0,8
+10425,2025-06-22,Karaganda,Chair,Furniture,1.0,95,0.1,55,Cash,85.5,30.5,6
+10426,2025-11-04,Aktobe,Chair,Furniture,2.0,95,0.05,55,Bank Transfer,180.5,70.5,11
+10427,2025-02-21,Karaganda,Headphones,Electronics,2.0,75,0.15,35,Kaspi,127.5,57.5,2
+10428,2025-08-09,Karaganda,Watch,Accessories,5.0,130,0.05,75,Card,617.5,242.5,8
+10429,2025-02-11,Aktobe,Chair,Furniture,1.0,95,0.0,55,Bank Transfer,95.0,40.0,2
+10430,2025-04-30,Astana,Laptop,Electronics,1.0,650,0.0,470,Card,650.0,180.0,4
+10431,2025-01-10,Almaty,Laptop,Electronics,2.0,650,0.15,470,Bank Transfer,1105.0,165.0,1
+10432,2025-10-04,Karaganda,Backpack,Accessories,3.0,48,0.1,22,Card,129.6,63.60000000000001,10
+10433,2025-08-02,Astana,Backpack,Accessories,1.0,48,0.15,22,Kaspi,40.8,18.799999999999997,8
+10434,2025-06-22,Shymkent,Backpack,Accessories,5.0,48,0.15,22,Bank Transfer,204.0,93.99999999999999,6
+10435,2025-03-28,Aktobe,Laptop,Electronics,5.0,650,0.15,470,Cash,2762.5,412.5,3
+10436,2025-02-12,Astana,Pen Set,Stationery,5.0,12,0.1,5,Bank Transfer,54.0,29.000000000000004,2
+10437,2025-06-01,Astana,Smartphone,Electronics,5.0,520,0.15,380,Cash,2210.0,310.0,6
+10438,2025-11-10,Karaganda,Backpack,Accessories,3.0,48,0.15,22,Kaspi,122.39999999999999,56.39999999999999,11
+10439,2025-01-28,Shymkent,Smartphone,Electronics,3.0,520,0.05,380,Cash,1482.0,342.0,1
+10440,2025-12-16,Almaty,Chair,Furniture,4.0,95,0.0,55,Kaspi,380.0,160.0,12
+10441,2025-09-13,Astana,Backpack,Accessories,1.0,48,0.05,22,Kaspi,45.599999999999994,23.599999999999994,9
+10442,2025-02-18,Karaganda,Headphones,Electronics,4.0,75,0.05,35,Cash,285.0,145.0,2
+10443,2025-08-05,Almaty,Watch,Accessories,2.0,130,0.05,75,Cash,247.0,97.0,8
+10444,2025-05-20,Shymkent,Desk,Furniture,2.0,180,0.05,110,Cash,342.0,122.0,5
+10445,2025-06-09,Karaganda,Chair,Furniture,2.0,95,0.1,55,Card,171.0,61.0,6
+10446,2025-07-02,Astana,Laptop,Electronics,1.0,650,0.15,470,Kaspi,552.5,82.5,7
+10447,2025-04-24,Karaganda,Watch,Accessories,4.0,130,0.0,75,Bank Transfer,520.0,220.0,4
+10448,2025-06-23,Astana,Smartphone,Electronics,5.0,520,0.1,380,Card,2340.0,440.0,6
+10449,2025-02-08,Astana,Pen Set,Stationery,4.0,12,0.0,5,Kaspi,48.0,28.0,2
+10450,2025-05-29,Aktobe,Headphones,Electronics,5.0,75,0.05,35,Bank Transfer,356.25,181.25,5
+10451,2025-08-26,Karaganda,Backpack,Accessories,3.0,48,0.15,22,Card,122.39999999999999,56.39999999999999,8
+10452,2025-08-23,Astana,Notebook,Stationery,4.0,5,0.0,2,Cash,20.0,12.0,8
+10453,2025-09-15,Aktobe,Headphones,Electronics,5.0,75,0.1,35,Bank Transfer,337.5,162.5,9
+10454,2025-04-05,Shymkent,Headphones,Electronics,4.0,75,0.0,35,Card,300.0,160.0,4
+10455,2025-07-08,Astana,Chair,Furniture,3.0,95,0.1,55,Card,256.5,91.5,7
+10456,2025-01-23,Aktobe,Smartphone,Electronics,4.0,520,0.1,380,Cash,1872.0,352.0,1
+10457,2025-04-21,Almaty,Chair,Furniture,2.0,95,0.15,55,Bank Transfer,161.5,51.5,4
+10458,2025-12-30,Aktobe,Laptop,Electronics,3.0,650,0.0,470,Bank Transfer,1950.0,540.0,12
+10459,2025-08-12,Almaty,Backpack,Accessories,2.0,48,0.1,22,Cash,86.4,42.400000000000006,8
+10460,2025-10-29,Shymkent,Chair,Furniture,3.0,95,0.05,55,Cash,270.75,105.75,10
+10461,2025-03-27,Almaty,Watch,Accessories,2.0,130,0.05,75,Card,247.0,97.0,3
+10462,2025-01-14,Astana,Laptop,Electronics,2.0,650,0.0,470,Cash,1300.0,360.0,1
+10463,2025-03-16,Shymkent,Desk,Furniture,3.0,180,0.0,110,Card,540.0,210.0,3
+10464,2025-04-21,Aktobe,Desk,Furniture,4.0,180,0.15,110,Card,612.0,172.0,4
+10465,2025-08-15,Almaty,Backpack,Accessories,5.0,48,0.05,22,Cash,228.0,117.99999999999997,8
+10466,2025-12-25,Aktobe,Notebook,Stationery,2.0,5,0.05,2,Card,9.5,5.5,12
+10467,2025-07-07,Astana,Desk,Furniture,5.0,180,0.15,110,Cash,765.0,215.0,7
+10468,2025-03-12,Karaganda,Pen Set,Stationery,5.0,12,0.05,5,Kaspi,57.0,31.999999999999993,3
+10469,2025-08-17,Almaty,Backpack,Accessories,4.0,48,0.15,22,Bank Transfer,163.2,75.19999999999999,8
+10470,2025-06-11,Almaty,Backpack,Accessories,3.0,48,0.1,22,Bank Transfer,129.6,63.60000000000001,6
+10471,2025-11-01,Shymkent,Smartphone,Electronics,5.0,520,0.15,380,Card,2210.0,310.0,11
+10472,2025-04-27,Karaganda,Notebook,Stationery,3.0,5,0.15,2,Cash,12.75,6.75,4
+10473,2025-12-16,Astana,Desk,Furniture,1.0,180,0.05,110,Kaspi,171.0,61.0,12
+10474,2025-04-23,Shymkent,Desk,Furniture,4.0,180,0.1,110,Kaspi,648.0,208.0,4
+10475,2025-04-28,Aktobe,Watch,Accessories,1.0,130,0.0,75,Card,130.0,55.0,4
+10476,2025-05-28,Shymkent,Desk,Furniture,4.0,180,0.1,110,Kaspi,648.0,208.0,5
+10477,2025-03-31,Aktobe,Watch,Accessories,1.0,130,0.15,75,Cash,110.5,35.5,3
+10478,2025-09-16,Aktobe,Headphones,Electronics,3.0,75,0.0,35,Card,225.0,120.0,9
+10479,2025-07-17,Astana,Notebook,Stationery,3.0,5,0.0,2,Kaspi,15.0,9.0,7
+10480,2025-02-04,Almaty,Chair,Furniture,3.0,95,0.0,55,Cash,285.0,120.0,2
+10481,2025-02-18,Aktobe,Chair,Furniture,2.0,95,0.15,55,Cash,161.5,51.5,2
+10482,2025-03-11,Almaty,Desk,Furniture,4.0,180,0.05,110,Kaspi,684.0,244.0,3
+10483,2025-05-09,Astana,Pen Set,Stationery,4.0,12,0.05,5,Cash,45.599999999999994,25.599999999999994,5
+10484,2025-06-23,Karaganda,Notebook,Stationery,4.0,5,0.15,2,Cash,17.0,9.0,6
+10485,2025-06-01,Astana,Desk,Furniture,4.0,180,0.0,110,Card,720.0,280.0,6
+10486,2025-12-30,Almaty,Backpack,Accessories,4.0,48,0.1,22,Kaspi,172.8,84.80000000000001,12
+10487,2025-08-08,Almaty,Pen Set,Stationery,2.0,12,0.0,5,Cash,24.0,14.0,8
+10488,2025-02-13,Astana,Notebook,Stationery,5.0,5,0.15,2,Bank Transfer,21.25,11.25,2
+10489,2025-12-04,Almaty,Desk,Furniture,1.0,180,0.0,110,Cash,180.0,70.0,12
+10490,2025-06-27,Astana,Desk,Furniture,3.0,180,0.1,110,Card,486.0,156.0,6
+10491,2025-06-09,Shymkent,Headphones,Electronics,4.0,75,0.15,35,Kaspi,255.0,115.0,6
+10492,2025-06-03,Karaganda,Pen Set,Stationery,1.0,12,0.0,5,Card,12.0,7.0,6
+10493,2025-03-23,Aktobe,Chair,Furniture,3.0,95,0.1,55,Card,256.5,91.5,3
+10494,2025-11-01,Shymkent,Chair,Furniture,3.0,95,0.0,55,Cash,285.0,120.0,11
+10495,2025-06-10,Almaty,Watch,Accessories,5.0,130,0.15,75,Kaspi,552.5,177.5,6
+10496,2025-11-23,Astana,Watch,Accessories,1.0,130,0.15,75,Cash,110.5,35.5,11
+10497,2025-01-28,Almaty,Headphones,Electronics,3.0,75,0.0,35,Kaspi,225.0,120.0,1
+10498,2025-06-26,Astana,Notebook,Stationery,2.0,5,0.05,2,Card,9.5,5.5,6
+10499,2025-04-08,Astana,Notebook,Stationery,2.0,5,0.0,2,Cash,10.0,6.0,4
+10500,2025-01-22,Astana,Headphones,Electronics,2.0,75,0.05,35,Card,142.5,72.5,1
+10501,2025-05-05,Karaganda,Smartphone,Electronics,4.0,520,0.1,380,Card,1872.0,352.0,5
+10502,2025-07-11,Shymkent,Smartphone,Electronics,1.0,520,0.15,380,Bank Transfer,442.0,62.0,7
+10503,2025-10-04,Karaganda,Pen Set,Stationery,2.0,12,0.1,5,Bank Transfer,21.6,11.600000000000001,10
+10504,2025-08-02,Aktobe,Desk,Furniture,4.0,180,0.15,110,Card,612.0,172.0,8
+10505,2025-06-17,Almaty,Watch,Accessories,4.0,130,0.05,75,Cash,494.0,194.0,6
+10506,2025-09-05,Shymkent,Headphones,Electronics,4.0,75,0.0,35,Card,300.0,160.0,9
+10507,2025-08-15,Karaganda,Desk,Furniture,1.0,180,0.1,110,Card,162.0,52.0,8
+10508,2025-07-16,Shymkent,Smartphone,Electronics,3.0,520,0.15,380,Bank Transfer,1326.0,186.0,7
+10509,2025-10-24,Karaganda,Backpack,Accessories,5.0,48,0.0,22,Bank Transfer,240.0,130.0,10
+10510,2025-02-16,Almaty,Pen Set,Stationery,2.0,12,0.15,5,Bank Transfer,20.4,10.399999999999999,2
+10511,2025-09-25,Almaty,Notebook,Stationery,3.0,5,0.0,2,Kaspi,15.0,9.0,9
+10512,2025-12-29,Astana,Headphones,Electronics,4.0,75,0.0,35,Kaspi,300.0,160.0,12
+10513,2025-04-11,Karaganda,Backpack,Accessories,3.0,48,0.0,22,Bank Transfer,144.0,78.0,4
+10514,2025-09-03,Shymkent,Notebook,Stationery,1.0,5,0.15,2,Kaspi,4.25,2.25,9
+10515,2025-01-16,Astana,Pen Set,Stationery,5.0,12,0.1,5,Cash,54.0,29.000000000000004,1
+10516,2025-06-07,Aktobe,Chair,Furniture,2.0,95,0.15,55,Bank Transfer,161.5,51.5,6
+10517,2025-08-11,Shymkent,Notebook,Stationery,3.0,5,0.0,2,Cash,15.0,9.0,8
+10518,2025-12-19,Karaganda,Smartphone,Electronics,1.0,520,0.15,380,Card,442.0,62.0,12
+10519,2025-08-15,Aktobe,Chair,Furniture,4.0,95,0.0,55,Cash,380.0,160.0,8
+10520,2025-05-14,Shymkent,Desk,Furniture,4.0,180,0.15,110,Cash,612.0,172.0,5
+10521,2025-12-30,Karaganda,Headphones,Electronics,1.0,75,0.0,35,Bank Transfer,75.0,40.0,12
+10522,2025-05-11,Karaganda,Headphones,Electronics,4.0,75,0.05,35,Card,285.0,145.0,5
+10523,2025-06-05,Almaty,Chair,Furniture,1.0,95,0.0,55,Kaspi,95.0,40.0,6
+10524,2025-02-03,Astana,Desk,Furniture,3.0,180,0.1,110,Card,486.0,156.0,2
+10525,2025-10-06,Astana,Watch,Accessories,5.0,130,0.15,75,Kaspi,552.5,177.5,10
+10526,2025-10-16,Karaganda,Smartphone,Electronics,5.0,520,0.15,380,Card,2210.0,310.0,10
+10527,2025-09-05,Karaganda,Headphones,Electronics,1.0,75,0.15,35,Bank Transfer,63.75,28.75,9
+10528,2025-09-04,Shymkent,Laptop,Electronics,4.0,650,0.05,470,Cash,2470.0,590.0,9
+10529,2025-05-23,Aktobe,Notebook,Stationery,3.0,5,0.0,2,Cash,15.0,9.0,5
+10530,2025-10-29,Karaganda,Chair,Furniture,4.0,95,0.15,55,Cash,323.0,103.0,10
+10531,2025-12-21,Karaganda,Pen Set,Stationery,5.0,12,0.1,5,Card,54.0,29.000000000000004,12
+10532,2025-08-13,Shymkent,Smartphone,Electronics,3.0,520,0.1,380,Kaspi,1404.0,264.0,8
+10533,2025-02-15,Karaganda,Headphones,Electronics,5.0,75,0.15,35,Card,318.75,143.75,2
+10534,2025-05-27,Shymkent,Smartphone,Electronics,4.0,520,0.0,380,Cash,2080.0,560.0,5
+10535,2025-12-10,Almaty,Backpack,Accessories,1.0,48,0.1,22,Card,43.2,21.200000000000003,12
+10536,2025-10-02,Astana,Smartphone,Electronics,4.0,520,0.15,380,Cash,1768.0,248.0,10
+10537,2025-07-25,Astana,Pen Set,Stationery,3.0,12,0.15,5,Kaspi,30.599999999999998,15.599999999999998,7
+10538,2025-10-02,Karaganda,Watch,Accessories,5.0,130,0.0,75,Bank Transfer,650.0,275.0,10
+10539,2025-10-13,Astana,Backpack,Accessories,1.0,48,0.15,22,Bank Transfer,40.8,18.799999999999997,10
+10540,2025-05-22,Shymkent,Watch,Accessories,5.0,130,0.1,75,Cash,585.0,210.0,5
+10541,2025-07-15,Shymkent,Watch,Accessories,4.0,130,0.15,75,Bank Transfer,442.0,142.0,7
+10542,2025-12-27,Aktobe,Headphones,Electronics,1.0,75,0.15,35,Kaspi,63.75,28.75,12
+10543,2025-01-16,Aktobe,Pen Set,Stationery,1.0,12,0.15,5,Card,10.2,5.199999999999999,1
+10544,2025-09-24,Almaty,Smartphone,Electronics,5.0,520,0.1,380,Cash,2340.0,440.0,9
+10545,2025-10-31,Karaganda,Chair,Furniture,5.0,95,0.1,55,Bank Transfer,427.5,152.5,10
+10546,2025-07-20,Aktobe,Laptop,Electronics,1.0,650,0.15,470,Kaspi,552.5,82.5,7
+10547,2025-08-04,Astana,Laptop,Electronics,5.0,650,0.1,470,Kaspi,2925.0,575.0,8
+10548,2025-11-28,Karaganda,Backpack,Accessories,1.0,48,0.1,22,Card,43.2,21.200000000000003,11
+10549,2025-04-03,Aktobe,Desk,Furniture,3.0,180,0.05,110,Bank Transfer,513.0,183.0,4
+10550,2025-06-06,Shymkent,Watch,Accessories,4.0,130,0.1,75,Kaspi,468.0,168.0,6
+10551,2025-03-17,Aktobe,Desk,Furniture,3.0,180,0.05,110,Bank Transfer,513.0,183.0,3
+10552,2025-06-11,Shymkent,Headphones,Electronics,1.0,75,0.0,35,Bank Transfer,75.0,40.0,6
+10553,2025-09-19,Astana,Pen Set,Stationery,2.0,12,0.0,5,Cash,24.0,14.0,9
+10554,2025-08-06,Shymkent,Notebook,Stationery,3.0,5,0.15,2,Card,12.75,6.75,8
+10555,2025-04-03,Aktobe,Laptop,Electronics,1.0,650,0.1,470,Bank Transfer,585.0,115.0,4
+10556,2025-08-25,Karaganda,Smartphone,Electronics,1.0,520,0.0,380,Cash,520.0,140.0,8
+10557,2025-02-18,Astana,Notebook,Stationery,3.0,5,0.15,2,Bank Transfer,12.75,6.75,2
+10558,2025-03-31,Aktobe,Laptop,Electronics,5.0,650,0.0,470,Bank Transfer,3250.0,900.0,3
+10559,2025-08-21,Astana,Notebook,Stationery,5.0,5,0.0,2,Cash,25.0,15.0,8
+10560,2025-12-10,Aktobe,Laptop,Electronics,3.0,650,0.1,470,Kaspi,1755.0,345.0,12
+10561,2025-02-10,Aktobe,Pen Set,Stationery,3.0,12,0.05,5,Kaspi,34.199999999999996,19.199999999999996,2
+10562,2025-06-17,Karaganda,Laptop,Electronics,3.0,650,0.15,470,Bank Transfer,1657.5,247.5,6
+10563,2025-04-19,Karaganda,Backpack,Accessories,5.0,48,0.15,22,Cash,204.0,93.99999999999999,4
+10564,2025-09-07,Aktobe,Pen Set,Stationery,1.0,12,0.1,5,Card,10.8,5.800000000000001,9
+10565,2025-06-07,Aktobe,Pen Set,Stationery,1.0,12,0.1,5,Bank Transfer,10.8,5.800000000000001,6
+10566,2025-05-26,Almaty,Headphones,Electronics,4.0,75,0.05,35,Cash,285.0,145.0,5
+10567,2025-03-23,Aktobe,Desk,Furniture,3.0,180,0.1,110,Bank Transfer,486.0,156.0,3
+10568,2025-03-25,Astana,Backpack,Accessories,1.0,48,0.15,22,Card,40.8,18.799999999999997,3
+10569,2025-05-23,Astana,Smartphone,Electronics,2.0,520,0.1,380,Cash,936.0,176.0,5
+10570,2025-07-21,Almaty,Watch,Accessories,3.0,130,0.1,75,Cash,351.0,126.0,7
+10571,2025-02-20,Astana,Headphones,Electronics,1.0,75,0.1,35,Bank Transfer,67.5,32.5,2
+10572,2025-03-25,Shymkent,Smartphone,Electronics,5.0,520,0.05,380,Cash,2470.0,570.0,3
+10573,2025-12-16,Almaty,Notebook,Stationery,1.0,5,0.0,2,Card,5.0,3.0,12
+10574,2025-08-23,Astana,Smartphone,Electronics,5.0,520,0.1,380,Card,2340.0,440.0,8
+10575,2025-08-01,Astana,Chair,Furniture,1.0,95,0.1,55,Bank Transfer,85.5,30.5,8
+10576,2025-10-21,Karaganda,Watch,Accessories,5.0,130,0.05,75,Kaspi,617.5,242.5,10
+10577,2025-04-09,Aktobe,Headphones,Electronics,1.0,75,0.0,35,Card,75.0,40.0,4
+10578,2025-10-15,Shymkent,Headphones,Electronics,3.0,75,0.15,35,Bank Transfer,191.25,86.25,10
+10579,2025-03-04,Shymkent,Watch,Accessories,2.0,130,0.1,75,Cash,234.0,84.0,3
+10580,2025-04-10,Karaganda,Notebook,Stationery,1.0,5,0.15,2,Kaspi,4.25,2.25,4
+10581,2025-06-05,Aktobe,Headphones,Electronics,4.0,75,0.0,35,Bank Transfer,300.0,160.0,6
+10582,2025-07-12,Karaganda,Laptop,Electronics,3.0,650,0.0,470,Card,1950.0,540.0,7
+10583,2025-05-06,Shymkent,Headphones,Electronics,1.0,75,0.0,35,Card,75.0,40.0,5
+10584,2025-06-25,Karaganda,Chair,Furniture,4.0,95,0.05,55,Cash,361.0,141.0,6
+10585,2025-04-23,Aktobe,Desk,Furniture,2.0,180,0.0,110,Card,360.0,140.0,4
+10586,2025-12-10,Shymkent,Backpack,Accessories,3.0,48,0.1,22,Cash,129.6,63.60000000000001,12
+10587,2025-06-03,Shymkent,Desk,Furniture,3.0,180,0.15,110,Kaspi,459.0,129.0,6
+10588,2025-11-02,Shymkent,Smartphone,Electronics,5.0,520,0.1,380,Cash,2340.0,440.0,11
+10589,2025-05-02,Aktobe,Chair,Furniture,5.0,95,0.05,55,Bank Transfer,451.25,176.25,5
+10590,2025-02-04,Karaganda,Chair,Furniture,2.0,95,0.15,55,Cash,161.5,51.5,2
+10591,2025-10-12,Aktobe,Laptop,Electronics,3.0,650,0.1,470,Card,1755.0,345.0,10
+10592,2025-04-19,Karaganda,Desk,Furniture,5.0,180,0.0,110,Cash,900.0,350.0,4
+10593,2025-06-11,Aktobe,Laptop,Electronics,5.0,650,0.1,470,Kaspi,2925.0,575.0,6
+10594,2025-02-11,Almaty,Smartphone,Electronics,5.0,520,0.1,380,Card,2340.0,440.0,2
+10595,2025-12-07,Karaganda,Laptop,Electronics,5.0,650,0.15,470,Kaspi,2762.5,412.5,12
+10596,2025-11-20,Shymkent,Pen Set,Stationery,1.0,12,0.15,5,Kaspi,10.2,5.199999999999999,11
+10597,2025-05-05,Shymkent,Backpack,Accessories,5.0,48,0.1,22,Card,216.0,106.00000000000001,5
+10598,2025-09-30,Shymkent,Desk,Furniture,4.0,180,0.05,110,Bank Transfer,684.0,244.0,9
+10599,2025-09-06,Almaty,Notebook,Stationery,3.0,5,0.0,2,Kaspi,15.0,9.0,9
+10600,2025-01-08,Karaganda,Chair,Furniture,5.0,95,0.0,55,Cash,475.0,200.0,1
+10601,2025-05-27,Shymkent,Desk,Furniture,5.0,180,0.05,110,Kaspi,855.0,305.0,5
+10602,2025-06-22,Karaganda,Notebook,Stationery,5.0,5,0.05,2,Kaspi,23.75,13.75,6
+10603,2025-01-05,Astana,Pen Set,Stationery,4.0,12,0.0,5,Card,48.0,28.0,1
+10604,2025-01-17,Shymkent,Notebook,Stationery,3.0,5,0.05,2,Bank Transfer,14.25,8.25,1
+10605,2025-12-18,Almaty,Desk,Furniture,4.0,180,0.05,110,Kaspi,684.0,244.0,12
+10606,2025-08-04,Shymkent,Laptop,Electronics,3.0,650,0.15,470,Cash,1657.5,247.5,8
+10607,2025-08-30,Astana,Smartphone,Electronics,3.0,520,0.0,380,Card,1560.0,420.0,8
+10608,2025-04-02,Shymkent,Headphones,Electronics,4.0,75,0.1,35,Cash,270.0,130.0,4
+10609,2025-02-17,Astana,Smartphone,Electronics,4.0,520,0.0,380,Cash,2080.0,560.0,2
+10610,2025-08-13,Shymkent,Laptop,Electronics,3.0,650,0.1,470,Cash,1755.0,345.0,8
+10611,2025-07-27,Almaty,Pen Set,Stationery,5.0,12,0.05,5,Kaspi,57.0,31.999999999999993,7
+10612,2025-02-23,Almaty,Smartphone,Electronics,2.0,520,0.15,380,Card,884.0,124.0,2
+10613,2025-07-23,Almaty,Chair,Furniture,1.0,95,0.15,55,Kaspi,80.75,25.75,7
+10614,2025-10-13,Astana,Backpack,Accessories,3.0,48,0.1,22,Card,129.6,63.60000000000001,10
+10615,2025-10-09,Astana,Backpack,Accessories,3.0,48,0.0,22,Bank Transfer,144.0,78.0,10
+10616,2025-02-06,Astana,Watch,Accessories,5.0,130,0.0,75,Bank Transfer,650.0,275.0,2
+10617,2025-07-07,Astana,Backpack,Accessories,1.0,48,0.15,22,Kaspi,40.8,18.799999999999997,7
+10618,2025-07-10,Astana,Headphones,Electronics,2.0,75,0.05,35,Card,142.5,72.5,7
+10619,2025-12-24,Shymkent,Desk,Furniture,3.0,180,0.15,110,Kaspi,459.0,129.0,12
+10620,2025-02-14,Aktobe,Headphones,Electronics,3.0,75,0.1,35,Card,202.5,97.5,2
+10621,2025-05-25,Almaty,Headphones,Electronics,2.0,75,0.15,35,Bank Transfer,127.5,57.5,5
+10622,2025-07-07,Almaty,Notebook,Stationery,2.0,5,0.05,2,Cash,9.5,5.5,7
+10623,2025-04-21,Karaganda,Backpack,Accessories,2.0,48,0.1,22,Kaspi,86.4,42.400000000000006,4
+10624,2025-08-03,Shymkent,Backpack,Accessories,5.0,48,0.1,22,Cash,216.0,106.00000000000001,8
+10625,2025-11-17,Astana,Pen Set,Stationery,1.0,12,0.05,5,Cash,11.399999999999999,6.399999999999999,11
+10626,2025-02-22,Shymkent,Chair,Furniture,1.0,95,0.0,55,Card,95.0,40.0,2
+10627,2025-07-02,Almaty,Laptop,Electronics,2.0,650,0.15,470,Bank Transfer,1105.0,165.0,7
+10628,2025-02-21,Karaganda,Notebook,Stationery,2.0,5,0.05,2,Card,9.5,5.5,2
+10629,2025-02-22,Karaganda,Desk,Furniture,5.0,180,0.1,110,Kaspi,810.0,260.0,2
+10630,2025-01-12,Almaty,Backpack,Accessories,2.0,48,0.15,22,Card,81.6,37.599999999999994,1
+10631,2025-07-23,Astana,Watch,Accessories,1.0,130,0.1,75,Cash,117.0,42.0,7
+10632,2025-04-06,Astana,Headphones,Electronics,2.0,75,0.15,35,Cash,127.5,57.5,4
+10633,2025-11-21,Karaganda,Notebook,Stationery,1.0,5,0.15,2,Cash,4.25,2.25,11
+10634,2025-03-06,Shymkent,Watch,Accessories,3.0,130,0.0,75,Kaspi,390.0,165.0,3
+10635,2025-04-10,Almaty,Headphones,Electronics,3.0,75,0.0,35,Kaspi,225.0,120.0,4
+10636,2025-07-17,Karaganda,Laptop,Electronics,3.0,650,0.0,470,Cash,1950.0,540.0,7
+10637,2025-08-06,Aktobe,Pen Set,Stationery,1.0,12,0.15,5,Kaspi,10.2,5.199999999999999,8
+10638,2025-04-30,Almaty,Watch,Accessories,5.0,130,0.0,75,Kaspi,650.0,275.0,4
+10639,2025-01-24,Karaganda,Chair,Furniture,3.0,95,0.0,55,Bank Transfer,285.0,120.0,1
+10640,2025-04-04,Astana,Watch,Accessories,5.0,130,0.15,75,Kaspi,552.5,177.5,4
+10641,2025-05-20,Aktobe,Smartphone,Electronics,2.0,520,0.0,380,Cash,1040.0,280.0,5
+10642,2025-10-31,Karaganda,Notebook,Stationery,1.0,5,0.1,2,Kaspi,4.5,2.5,10
+10643,2025-09-13,Shymkent,Headphones,Electronics,4.0,75,0.0,35,Bank Transfer,300.0,160.0,9
+10644,2025-01-13,Almaty,Pen Set,Stationery,5.0,12,0.0,5,Bank Transfer,60.0,35.0,1
+10645,2025-01-16,Astana,Headphones,Electronics,1.0,75,0.05,35,Kaspi,71.25,36.25,1
+10646,2025-04-10,Aktobe,Notebook,Stationery,5.0,5,0.0,2,Card,25.0,15.0,4
+10647,2025-08-04,Karaganda,Watch,Accessories,2.0,130,0.1,75,Bank Transfer,234.0,84.0,8
+10648,2025-05-29,Karaganda,Notebook,Stationery,1.0,5,0.15,2,Cash,4.25,2.25,5
+10649,2025-01-13,Astana,Smartphone,Electronics,1.0,520,0.05,380,Card,494.0,114.0,1
+10650,2025-02-13,Aktobe,Chair,Furniture,2.0,95,0.05,55,Cash,180.5,70.5,2
+10651,2025-04-12,Almaty,Chair,Furniture,1.0,95,0.15,55,Card,80.75,25.75,4
+10652,2025-04-21,Astana,Smartphone,Electronics,4.0,520,0.05,380,Bank Transfer,1976.0,456.0,4
+10653,2025-01-29,Shymkent,Backpack,Accessories,1.0,48,0.15,22,Card,40.8,18.799999999999997,1
+10654,2025-11-17,Karaganda,Notebook,Stationery,4.0,5,0.15,2,Kaspi,17.0,9.0,11
+10655,2025-04-14,Karaganda,Laptop,Electronics,2.0,650,0.15,470,Kaspi,1105.0,165.0,4
+10656,2025-06-30,Almaty,Notebook,Stationery,3.0,5,0.1,2,Card,13.5,7.5,6
+10657,2025-06-11,Aktobe,Watch,Accessories,5.0,130,0.0,75,Cash,650.0,275.0,6
+10658,2025-01-07,Karaganda,Pen Set,Stationery,1.0,12,0.05,5,Bank Transfer,11.399999999999999,6.399999999999999,1
+10659,2025-05-15,Karaganda,Chair,Furniture,3.0,95,0.0,55,Bank Transfer,285.0,120.0,5
+10660,2025-08-13,Astana,Backpack,Accessories,5.0,48,0.05,22,Kaspi,228.0,117.99999999999997,8
+10661,2025-04-14,Shymkent,Desk,Furniture,5.0,180,0.0,110,Cash,900.0,350.0,4
+10662,2025-08-14,Karaganda,Headphones,Electronics,5.0,75,0.1,35,Bank Transfer,337.5,162.5,8
+10663,2025-08-06,Karaganda,Pen Set,Stationery,2.0,12,0.15,5,Cash,20.4,10.399999999999999,8
+10664,2025-05-13,Karaganda,Pen Set,Stationery,2.0,12,0.1,5,Kaspi,21.6,11.600000000000001,5
+10665,2025-08-21,Astana,Notebook,Stationery,3.0,5,0.05,2,Bank Transfer,14.25,8.25,8
+10666,2025-12-28,Astana,Pen Set,Stationery,2.0,12,0.0,5,Card,24.0,14.0,12
+10667,2025-09-24,Aktobe,Smartphone,Electronics,5.0,520,0.15,380,Bank Transfer,2210.0,310.0,9
+10668,2025-12-17,Karaganda,Desk,Furniture,3.0,180,0.1,110,Cash,486.0,156.0,12
+10669,2025-06-24,Karaganda,Laptop,Electronics,4.0,650,0.0,470,Kaspi,2600.0,720.0,6
+10670,2025-06-23,Almaty,Watch,Accessories,2.0,130,0.0,75,Card,260.0,110.0,6
+10671,2025-03-25,Karaganda,Chair,Furniture,1.0,95,0.1,55,Bank Transfer,85.5,30.5,3
+10672,2025-06-10,Almaty,Notebook,Stationery,3.0,5,0.05,2,Kaspi,14.25,8.25,6
+10673,2025-02-15,Aktobe,Chair,Furniture,2.0,95,0.05,55,Card,180.5,70.5,2
+10674,2025-01-06,Aktobe,Smartphone,Electronics,4.0,520,0.0,380,Kaspi,2080.0,560.0,1
+10675,2025-07-28,Shymkent,Laptop,Electronics,5.0,650,0.05,470,Kaspi,3087.5,737.5,7
+10676,2025-06-18,Karaganda,Notebook,Stationery,3.0,5,0.15,2,Bank Transfer,12.75,6.75,6
+10677,2025-11-16,Shymkent,Backpack,Accessories,2.0,48,0.05,22,Cash,91.19999999999999,47.19999999999999,11
+10678,2025-03-30,Almaty,Chair,Furniture,3.0,95,0.1,55,Kaspi,256.5,91.5,3
+10679,2025-06-03,Karaganda,Notebook,Stationery,4.0,5,0.1,2,Cash,18.0,10.0,6
+10680,2025-09-30,Shymkent,Headphones,Electronics,3.0,75,0.0,35,Bank Transfer,225.0,120.0,9
+10681,2025-09-04,Aktobe,Headphones,Electronics,2.0,75,0.15,35,Card,127.5,57.5,9
+10682,2025-04-04,Astana,Desk,Furniture,3.0,180,0.1,110,Cash,486.0,156.0,4
+10683,2025-03-29,Almaty,Desk,Furniture,5.0,180,0.05,110,Bank Transfer,855.0,305.0,3
+10684,2025-03-15,Karaganda,Watch,Accessories,5.0,130,0.15,75,Bank Transfer,552.5,177.5,3
+10685,2025-08-04,Almaty,Chair,Furniture,4.0,95,0.15,55,Card,323.0,103.0,8
+10686,2025-04-01,Aktobe,Pen Set,Stationery,3.0,12,0.0,5,Cash,36.0,21.0,4
+10687,2025-12-30,Aktobe,Smartphone,Electronics,5.0,520,0.05,380,Bank Transfer,2470.0,570.0,12
+10688,2025-09-05,Shymkent,Watch,Accessories,2.0,130,0.1,75,Cash,234.0,84.0,9
+10689,2025-04-03,Astana,Watch,Accessories,3.0,130,0.15,75,Bank Transfer,331.5,106.5,4
+10690,2025-04-04,Shymkent,Chair,Furniture,3.0,95,0.0,55,Kaspi,285.0,120.0,4
+10691,2025-10-01,Aktobe,Laptop,Electronics,4.0,650,0.0,470,Bank Transfer,2600.0,720.0,10
+10692,2025-04-01,Almaty,Chair,Furniture,4.0,95,0.0,55,Card,380.0,160.0,4
+10693,2025-02-27,Almaty,Laptop,Electronics,5.0,650,0.15,470,Bank Transfer,2762.5,412.5,2
+10694,2025-09-23,Shymkent,Pen Set,Stationery,3.0,12,0.0,5,Cash,36.0,21.0,9
+10695,2025-07-12,Astana,Chair,Furniture,2.0,95,0.15,55,Cash,161.5,51.5,7
+10696,2025-08-09,Karaganda,Watch,Accessories,5.0,130,0.15,75,Kaspi,552.5,177.5,8
+10697,2025-05-29,Shymkent,Backpack,Accessories,4.0,48,0.05,22,Kaspi,182.39999999999998,94.39999999999998,5
+10698,2025-04-19,Karaganda,Smartphone,Electronics,2.0,520,0.15,380,Cash,884.0,124.0,4
+10699,2025-05-12,Almaty,Chair,Furniture,4.0,95,0.1,55,Card,342.0,122.0,5
+10700,2025-04-19,Aktobe,Desk,Furniture,1.0,180,0.15,110,Kaspi,153.0,43.0,4
+10701,2025-02-15,Karaganda,Pen Set,Stationery,1.0,12,0.0,5,Bank Transfer,12.0,7.0,2
+10702,2025-07-14,Shymkent,Smartphone,Electronics,5.0,520,0.15,380,Card,2210.0,310.0,7
+10703,2025-01-24,Almaty,Backpack,Accessories,4.0,48,0.1,22,Card,172.8,84.80000000000001,1
+10704,2025-06-30,Karaganda,Watch,Accessories,5.0,130,0.0,75,Kaspi,650.0,275.0,6
+10705,2025-11-14,Astana,Chair,Furniture,1.0,95,0.0,55,Cash,95.0,40.0,11
+10706,2025-11-22,Aktobe,Notebook,Stationery,1.0,5,0.05,2,Bank Transfer,4.75,2.75,11
+10707,2025-04-13,Aktobe,Pen Set,Stationery,5.0,12,0.15,5,Kaspi,51.0,25.999999999999996,4
+10708,2025-12-08,Karaganda,Smartphone,Electronics,4.0,520,0.15,380,Card,1768.0,248.0,12
+10709,2025-08-27,Astana,Smartphone,Electronics,5.0,520,0.0,380,Kaspi,2600.0,700.0,8
+10710,2025-01-30,Aktobe,Headphones,Electronics,1.0,75,0.15,35,Kaspi,63.75,28.75,1
+10711,2025-07-25,Astana,Smartphone,Electronics,3.0,520,0.1,380,Card,1404.0,264.0,7
+10712,2025-02-08,Aktobe,Desk,Furniture,5.0,180,0.15,110,Cash,765.0,215.0,2
+10713,2025-10-14,Almaty,Pen Set,Stationery,2.0,12,0.15,5,Kaspi,20.4,10.399999999999999,10
+10714,2025-09-12,Astana,Headphones,Electronics,1.0,75,0.1,35,Bank Transfer,67.5,32.5,9
+10715,2025-09-30,Karaganda,Notebook,Stationery,4.0,5,0.1,2,Cash,18.0,10.0,9
+10716,2025-12-23,Astana,Chair,Furniture,1.0,95,0.1,55,Cash,85.5,30.5,12
+10717,2025-10-19,Astana,Smartphone,Electronics,1.0,520,0.1,380,Bank Transfer,468.0,88.0,10
+10718,2025-04-14,Shymkent,Headphones,Electronics,1.0,75,0.1,35,Kaspi,67.5,32.5,4
+10719,2025-05-06,Astana,Pen Set,Stationery,1.0,12,0.05,5,Kaspi,11.399999999999999,6.399999999999999,5
+10720,2025-03-14,Aktobe,Watch,Accessories,4.0,130,0.15,75,Cash,442.0,142.0,3
+10721,2025-12-03,Astana,Smartphone,Electronics,4.0,520,0.15,380,Kaspi,1768.0,248.0,12
+10722,2025-07-11,Astana,Pen Set,Stationery,1.0,12,0.1,5,Card,10.8,5.800000000000001,7
+10723,2025-02-01,Karaganda,Desk,Furniture,2.0,180,0.0,110,Kaspi,360.0,140.0,2
+10724,2025-03-19,Almaty,Desk,Furniture,1.0,180,0.05,110,Card,171.0,61.0,3
+10725,2025-08-04,Shymkent,Pen Set,Stationery,5.0,12,0.1,5,Card,54.0,29.000000000000004,8
+10726,2025-06-17,Shymkent,Watch,Accessories,5.0,130,0.0,75,Cash,650.0,275.0,6
+10727,2025-01-13,Shymkent,Notebook,Stationery,3.0,5,0.15,2,Bank Transfer,12.75,6.75,1
+10728,2025-05-28,Karaganda,Watch,Accessories,4.0,130,0.1,75,Card,468.0,168.0,5
+10729,2025-01-22,Shymkent,Backpack,Accessories,1.0,48,0.0,22,Bank Transfer,48.0,26.0,1
+10730,2025-07-25,Shymkent,Pen Set,Stationery,2.0,12,0.15,5,Kaspi,20.4,10.399999999999999,7
+10731,2025-06-28,Almaty,Smartphone,Electronics,4.0,520,0.15,380,Bank Transfer,1768.0,248.0,6
+10732,2025-04-23,Karaganda,Laptop,Electronics,5.0,650,0.1,470,Cash,2925.0,575.0,4
+10733,2025-04-07,Aktobe,Laptop,Electronics,1.0,650,0.15,470,Card,552.5,82.5,4
+10734,2025-04-28,Shymkent,Chair,Furniture,1.0,95,0.05,55,Card,90.25,35.25,4
+10735,2025-01-19,Aktobe,Watch,Accessories,3.0,130,0.05,75,Card,370.5,145.5,1
+10736,2025-10-16,Aktobe,Pen Set,Stationery,4.0,12,0.05,5,Kaspi,45.599999999999994,25.599999999999994,10
+10737,2025-01-14,Shymkent,Pen Set,Stationery,5.0,12,0.15,5,Bank Transfer,51.0,25.999999999999996,1
+10738,2025-12-04,Almaty,Backpack,Accessories,1.0,48,0.0,22,Bank Transfer,48.0,26.0,12
+10739,2025-11-18,Almaty,Laptop,Electronics,5.0,650,0.15,470,Card,2762.5,412.5,11
+10740,2025-03-23,Almaty,Watch,Accessories,4.0,130,0.0,75,Cash,520.0,220.0,3
+10741,2025-07-23,Shymkent,Laptop,Electronics,3.0,650,0.05,470,Card,1852.5,442.5,7
+10742,2025-10-18,Almaty,Watch,Accessories,4.0,130,0.15,75,Card,442.0,142.0,10
+10743,2025-01-22,Almaty,Notebook,Stationery,3.0,5,0.1,2,Kaspi,13.5,7.5,1
+10744,2025-01-20,Shymkent,Notebook,Stationery,1.0,5,0.05,2,Bank Transfer,4.75,2.75,1
+10745,2025-03-25,Shymkent,Smartphone,Electronics,2.0,520,0.05,380,Cash,988.0,228.0,3
+10746,2025-11-19,Shymkent,Headphones,Electronics,2.0,75,0.0,35,Cash,150.0,80.0,11
+10747,2025-08-21,Shymkent,Notebook,Stationery,4.0,5,0.1,2,Bank Transfer,18.0,10.0,8
+10748,2025-03-06,Shymkent,Headphones,Electronics,2.0,75,0.0,35,Card,150.0,80.0,3
+10749,2025-03-20,Shymkent,Chair,Furniture,3.0,95,0.15,55,Cash,242.25,77.25,3
+10750,2025-10-05,Karaganda,Backpack,Accessories,2.0,48,0.05,22,Cash,91.19999999999999,47.19999999999999,10
+10751,2025-10-28,Karaganda,Laptop,Electronics,1.0,650,0.0,470,Bank Transfer,650.0,180.0,10
+10752,2025-05-18,Karaganda,Smartphone,Electronics,1.0,520,0.0,380,Card,520.0,140.0,5
+10753,2025-06-25,Astana,Notebook,Stationery,2.0,5,0.05,2,Kaspi,9.5,5.5,6
+10754,2025-06-27,Shymkent,Notebook,Stationery,4.0,5,0.1,2,Cash,18.0,10.0,6
+10755,2025-09-28,Karaganda,Watch,Accessories,5.0,130,0.1,75,Cash,585.0,210.0,9
+10756,2025-09-05,Karaganda,Smartphone,Electronics,1.0,520,0.1,380,Cash,468.0,88.0,9
+10757,2025-06-19,Almaty,Watch,Accessories,4.0,130,0.0,75,Bank Transfer,520.0,220.0,6
+10758,2025-09-02,Karaganda,Pen Set,Stationery,1.0,12,0.0,5,Card,12.0,7.0,9
+10759,2025-10-26,Almaty,Chair,Furniture,3.0,95,0.0,55,Card,285.0,120.0,10
+10760,2025-11-14,Almaty,Smartphone,Electronics,1.0,520,0.1,380,Bank Transfer,468.0,88.0,11
+10761,2025-04-04,Almaty,Headphones,Electronics,2.0,75,0.05,35,Kaspi,142.5,72.5,4
+10762,2025-06-13,Shymkent,Smartphone,Electronics,5.0,520,0.15,380,Card,2210.0,310.0,6
+10763,2025-12-24,Astana,Smartphone,Electronics,3.0,520,0.05,380,Bank Transfer,1482.0,342.0,12
+10764,2025-07-28,Astana,Smartphone,Electronics,5.0,520,0.05,380,Kaspi,2470.0,570.0,7
+10765,2025-10-22,Astana,Watch,Accessories,4.0,130,0.15,75,Cash,442.0,142.0,10
+10766,2025-02-06,Astana,Notebook,Stationery,2.0,5,0.15,2,Kaspi,8.5,4.5,2
+10767,2025-09-15,Aktobe,Chair,Furniture,2.0,95,0.1,55,Kaspi,171.0,61.0,9
+10768,2025-06-17,Karaganda,Notebook,Stationery,2.0,5,0.15,2,Kaspi,8.5,4.5,6
+10769,2025-12-01,Karaganda,Chair,Furniture,2.0,95,0.05,55,Kaspi,180.5,70.5,12
+10770,2025-05-19,Almaty,Notebook,Stationery,1.0,5,0.0,2,Bank Transfer,5.0,3.0,5
+10771,2025-09-13,Aktobe,Notebook,Stationery,3.0,5,0.05,2,Bank Transfer,14.25,8.25,9
+10772,2025-07-26,Astana,Desk,Furniture,3.0,180,0.05,110,Card,513.0,183.0,7
+10773,2025-05-01,Astana,Headphones,Electronics,5.0,75,0.15,35,Cash,318.75,143.75,5
+10774,2025-07-21,Karaganda,Chair,Furniture,5.0,95,0.05,55,Kaspi,451.25,176.25,7
+10775,2025-04-19,Karaganda,Smartphone,Electronics,3.0,520,0.1,380,Bank Transfer,1404.0,264.0,4
+10776,2025-05-09,Karaganda,Chair,Furniture,4.0,95,0.15,55,Kaspi,323.0,103.0,5
+10777,2025-08-22,Astana,Backpack,Accessories,5.0,48,0.0,22,Kaspi,240.0,130.0,8
+10778,2025-12-10,Astana,Desk,Furniture,5.0,180,0.1,110,Card,810.0,260.0,12
+10779,2025-12-18,Aktobe,Pen Set,Stationery,4.0,12,0.05,5,Card,45.599999999999994,25.599999999999994,12
+10780,2025-12-28,Almaty,Laptop,Electronics,1.0,650,0.0,470,Cash,650.0,180.0,12
+10781,2025-01-06,Shymkent,Watch,Accessories,5.0,130,0.1,75,Kaspi,585.0,210.0,1
+10782,2025-04-28,Aktobe,Notebook,Stationery,2.0,5,0.1,2,Cash,9.0,5.0,4
+10783,2025-11-09,Astana,Pen Set,Stationery,5.0,12,0.1,5,Cash,54.0,29.000000000000004,11
+10784,2025-05-21,Karaganda,Pen Set,Stationery,5.0,12,0.0,5,Kaspi,60.0,35.0,5
+10785,2025-03-26,Almaty,Backpack,Accessories,5.0,48,0.05,22,Bank Transfer,228.0,117.99999999999997,3
+10786,2025-04-04,Astana,Headphones,Electronics,1.0,75,0.05,35,Kaspi,71.25,36.25,4
+10787,2025-05-02,Almaty,Smartphone,Electronics,4.0,520,0.1,380,Bank Transfer,1872.0,352.0,5
+10788,2025-07-20,Almaty,Headphones,Electronics,4.0,75,0.1,35,Card,270.0,130.0,7
+10789,2025-09-04,Shymkent,Pen Set,Stationery,4.0,12,0.15,5,Bank Transfer,40.8,20.799999999999997,9
+10790,2025-06-24,Astana,Watch,Accessories,1.0,130,0.1,75,Kaspi,117.0,42.0,6
+10791,2025-06-24,Almaty,Backpack,Accessories,1.0,48,0.0,22,Card,48.0,26.0,6
+10792,2025-05-21,Astana,Headphones,Electronics,2.0,75,0.0,35,Bank Transfer,150.0,80.0,5
+10793,2025-09-02,Aktobe,Laptop,Electronics,5.0,650,0.1,470,Bank Transfer,2925.0,575.0,9
+10794,2025-10-09,Astana,Backpack,Accessories,5.0,48,0.0,22,Card,240.0,130.0,10
+10795,2025-01-07,Almaty,Laptop,Electronics,1.0,650,0.1,470,Cash,585.0,115.0,1
+10796,2025-08-29,Astana,Laptop,Electronics,3.0,650,0.0,470,Kaspi,1950.0,540.0,8
+10797,2025-07-26,Aktobe,Smartphone,Electronics,5.0,520,0.1,380,Bank Transfer,2340.0,440.0,7
+10798,2025-11-06,Karaganda,Watch,Accessories,1.0,130,0.15,75,Bank Transfer,110.5,35.5,11
+10799,2025-04-03,Astana,Laptop,Electronics,1.0,650,0.1,470,Bank Transfer,585.0,115.0,4
+10800,2025-04-28,Astana,Smartphone,Electronics,5.0,520,0.1,380,Kaspi,2340.0,440.0,4
+10801,2025-09-28,Shymkent,Headphones,Electronics,3.0,75,0.0,35,Card,225.0,120.0,9
+10802,2025-08-20,Almaty,Watch,Accessories,3.0,130,0.15,75,Bank Transfer,331.5,106.5,8
+10803,2025-08-12,Karaganda,Headphones,Electronics,1.0,75,0.15,35,Bank Transfer,63.75,28.75,8
+10804,2025-11-09,Astana,Desk,Furniture,5.0,180,0.05,110,Card,855.0,305.0,11
+10805,2025-12-01,Karaganda,Notebook,Stationery,5.0,5,0.1,2,Card,22.5,12.5,12
+10806,2025-12-05,Shymkent,Smartphone,Electronics,3.0,520,0.1,380,Card,1404.0,264.0,12
+10807,2025-03-01,Karaganda,Desk,Furniture,3.0,180,0.05,110,Kaspi,513.0,183.0,3
+10808,2025-03-03,Astana,Headphones,Electronics,1.0,75,0.15,35,Kaspi,63.75,28.75,3
+10809,2025-11-13,Astana,Headphones,Electronics,4.0,75,0.15,35,Cash,255.0,115.0,11
+10810,2025-11-14,Almaty,Chair,Furniture,4.0,95,0.0,55,Kaspi,380.0,160.0,11
+10811,2025-07-30,Karaganda,Chair,Furniture,5.0,95,0.1,55,Kaspi,427.5,152.5,7
+10812,2025-08-08,Unknown,Watch,Accessories,2.0,130,0.0,75,Bank Transfer,260.0,110.0,8
+10813,2025-10-04,Almaty,Pen Set,Stationery,4.0,12,0.05,5,Cash,45.599999999999994,25.599999999999994,10
+10814,2025-03-03,Almaty,Chair,Furniture,4.0,95,0.05,55,Cash,361.0,141.0,3
+10815,2025-01-16,Shymkent,Notebook,Stationery,1.0,5,0.15,2,Cash,4.25,2.25,1
+10816,2025-04-04,Karaganda,Headphones,Electronics,2.0,75,0.15,35,Kaspi,127.5,57.5,4
+10817,2025-08-06,Almaty,Laptop,Electronics,2.0,650,0.15,470,Kaspi,1105.0,165.0,8
+10818,2025-05-26,Astana,Pen Set,Stationery,1.0,12,0.1,5,Kaspi,10.8,5.800000000000001,5
+10819,2025-08-10,Aktobe,Notebook,Stationery,1.0,5,0.05,2,Cash,4.75,2.75,8
+10820,2025-04-20,Aktobe,Chair,Furniture,3.0,95,0.15,55,Kaspi,242.25,77.25,4
+10821,2025-03-15,Aktobe,Notebook,Stationery,4.0,5,0.15,2,Kaspi,17.0,9.0,3
+10822,2025-11-22,Karaganda,Pen Set,Stationery,2.0,12,0.0,5,Bank Transfer,24.0,14.0,11
+10823,2025-01-28,Astana,Laptop,Electronics,5.0,650,0.1,470,Card,2925.0,575.0,1
+10824,2025-04-06,Shymkent,Notebook,Stationery,5.0,5,0.15,2,Bank Transfer,21.25,11.25,4
+10825,2025-06-25,Astana,Headphones,Electronics,3.0,75,0.15,35,Bank Transfer,191.25,86.25,6
+10826,2025-04-14,Aktobe,Pen Set,Stationery,2.0,12,0.05,5,Bank Transfer,22.799999999999997,12.799999999999997,4
+10827,2025-07-01,Aktobe,Laptop,Electronics,3.0,650,0.15,470,Bank Transfer,1657.5,247.5,7
+10828,2025-12-31,Shymkent,Smartphone,Electronics,3.0,520,0.1,380,Kaspi,1404.0,264.0,12
+10829,2025-10-18,Karaganda,Laptop,Electronics,3.0,650,0.1,470,Cash,1755.0,345.0,10
+10830,2025-10-31,Aktobe,Smartphone,Electronics,3.0,520,0.05,380,Card,1482.0,342.0,10
+10831,2025-04-24,Astana,Backpack,Accessories,4.0,48,0.15,22,Kaspi,163.2,75.19999999999999,4
+10832,2025-01-03,Aktobe,Smartphone,Electronics,5.0,520,0.0,380,Card,2600.0,700.0,1
+10833,2025-01-25,Karaganda,Smartphone,Electronics,5.0,520,0.0,380,Kaspi,2600.0,700.0,1
+10834,2025-06-20,Almaty,Smartphone,Electronics,2.0,520,0.0,380,Kaspi,1040.0,280.0,6
+10835,2025-10-03,Shymkent,Watch,Accessories,3.0,130,0.05,75,Card,370.5,145.5,10
+10836,2025-01-28,Aktobe,Pen Set,Stationery,3.0,12,0.0,5,Kaspi,36.0,21.0,1
+10837,2025-09-25,Almaty,Chair,Furniture,4.0,95,0.05,55,Cash,361.0,141.0,9
+10838,2025-06-15,Astana,Desk,Furniture,3.0,180,0.15,110,Kaspi,459.0,129.0,6
+10839,2025-06-04,Almaty,Headphones,Electronics,3.0,75,0.0,35,Bank Transfer,225.0,120.0,6
+10840,2025-12-09,Astana,Chair,Furniture,3.0,95,0.1,55,Cash,256.5,91.5,12
+10841,2025-07-01,Almaty,Watch,Accessories,3.0,130,0.0,75,Bank Transfer,390.0,165.0,7
+10842,2025-09-17,Astana,Pen Set,Stationery,4.0,12,0.05,5,Card,45.599999999999994,25.599999999999994,9
+10843,2025-07-28,Aktobe,Headphones,Electronics,2.0,75,0.15,35,Card,127.5,57.5,7
+10844,2025-02-28,Shymkent,Laptop,Electronics,4.0,650,0.15,470,Card,2210.0,330.0,2
+10845,2025-08-10,Shymkent,Desk,Furniture,4.0,180,0.15,110,Card,612.0,172.0,8
+10846,2025-10-20,Astana,Headphones,Electronics,2.0,75,0.15,35,Card,127.5,57.5,10
+10847,2025-12-30,Shymkent,Backpack,Accessories,4.0,48,0.15,22,Cash,163.2,75.19999999999999,12
+10848,2025-07-28,Karaganda,Backpack,Accessories,4.0,48,0.1,22,Bank Transfer,172.8,84.80000000000001,7
+10849,2025-02-14,Shymkent,Pen Set,Stationery,3.0,12,0.0,5,Kaspi,36.0,21.0,2
+10850,2025-09-13,Astana,Backpack,Accessories,3.0,48,0.1,22,Bank Transfer,129.6,63.60000000000001,9
+10851,2025-08-22,Astana,Chair,Furniture,1.0,95,0.15,55,Kaspi,80.75,25.75,8
+10852,2025-08-10,Karaganda,Chair,Furniture,4.0,95,0.1,55,Cash,342.0,122.0,8
+10853,2025-09-25,Astana,Pen Set,Stationery,1.0,12,0.15,5,Card,10.2,5.199999999999999,9
+10854,2025-01-11,Almaty,Smartphone,Electronics,2.0,520,0.1,380,Bank Transfer,936.0,176.0,1
+10855,2025-09-08,Karaganda,Headphones,Electronics,2.0,75,0.05,35,Bank Transfer,142.5,72.5,9
+10856,2025-09-28,Aktobe,Desk,Furniture,4.0,180,0.1,110,Cash,648.0,208.0,9
+10857,2025-10-23,Karaganda,Watch,Accessories,3.0,130,0.05,75,Bank Transfer,370.5,145.5,10
+10858,2025-04-03,Karaganda,Backpack,Accessories,2.0,48,0.1,22,Bank Transfer,86.4,42.400000000000006,4
+10859,2025-05-05,Aktobe,Laptop,Electronics,4.0,650,0.0,470,Card,2600.0,720.0,5
+10860,2025-01-04,Almaty,Notebook,Stationery,2.0,5,0.1,2,Kaspi,9.0,5.0,1
+10861,2025-07-11,Almaty,Chair,Furniture,3.0,95,0.15,55,Bank Transfer,242.25,77.25,7
+10862,2025-05-25,Astana,Pen Set,Stationery,2.0,12,0.0,5,Kaspi,24.0,14.0,5
+10863,2025-07-03,Almaty,Chair,Furniture,1.0,95,0.05,55,Cash,90.25,35.25,7
+10864,2025-06-25,Almaty,Watch,Accessories,3.0,130,0.15,75,Bank Transfer,331.5,106.5,6
+10865,2025-04-16,Aktobe,Laptop,Electronics,1.0,650,0.15,470,Cash,552.5,82.5,4
+10866,2025-05-28,Almaty,Backpack,Accessories,3.0,48,0.0,22,Card,144.0,78.0,5
+10867,2025-11-28,Karaganda,Watch,Accessories,3.0,130,0.15,75,Kaspi,331.5,106.5,11
+10868,2025-08-15,Almaty,Watch,Accessories,4.0,130,0.1,75,Cash,468.0,168.0,8
+10869,2025-12-31,Astana,Backpack,Accessories,1.0,48,0.0,22,Card,48.0,26.0,12
+10870,2025-03-18,Astana,Smartphone,Electronics,4.0,520,0.05,380,Card,1976.0,456.0,3
+10871,2025-05-12,Karaganda,Notebook,Stationery,1.0,5,0.0,2,Bank Transfer,5.0,3.0,5
+10872,2025-07-10,Karaganda,Notebook,Stationery,5.0,5,0.05,2,Kaspi,23.75,13.75,7
+10873,2025-08-25,Almaty,Smartphone,Electronics,5.0,520,0.05,380,Bank Transfer,2470.0,570.0,8
+10874,2025-03-13,Astana,Pen Set,Stationery,3.0,12,0.05,5,Kaspi,34.199999999999996,19.199999999999996,3
+10875,2025-11-11,Aktobe,Laptop,Electronics,5.0,650,0.05,470,Bank Transfer,3087.5,737.5,11
+10876,2025-05-07,Astana,Watch,Accessories,5.0,130,0.05,75,Bank Transfer,617.5,242.5,5
+10877,2025-01-13,Aktobe,Pen Set,Stationery,2.0,12,0.05,5,Cash,22.799999999999997,12.799999999999997,1
+10878,2025-07-24,Astana,Desk,Furniture,4.0,180,0.0,110,Cash,720.0,280.0,7
+10879,2025-02-27,Almaty,Laptop,Electronics,3.0,650,0.0,470,Kaspi,1950.0,540.0,2
+10880,2025-09-21,Shymkent,Backpack,Accessories,2.0,48,0.1,22,Kaspi,86.4,42.400000000000006,9
+10881,2025-08-17,Astana,Pen Set,Stationery,4.0,12,0.0,5,Cash,48.0,28.0,8
+10882,2025-01-02,Almaty,Pen Set,Stationery,1.0,12,0.05,5,Kaspi,11.399999999999999,6.399999999999999,1
+10883,2025-08-09,Almaty,Headphones,Electronics,5.0,75,0.1,35,Cash,337.5,162.5,8
+10884,2025-04-22,Astana,Chair,Furniture,3.0,95,0.15,55,Kaspi,242.25,77.25,4
+10885,2025-06-29,Almaty,Watch,Accessories,4.0,130,0.1,75,Cash,468.0,168.0,6
+10886,2025-06-29,Astana,Pen Set,Stationery,1.0,12,0.15,5,Cash,10.2,5.199999999999999,6
+10887,2025-01-01,Karaganda,Notebook,Stationery,3.0,5,0.1,2,Card,13.5,7.5,1
+10888,2025-10-15,Karaganda,Watch,Accessories,1.0,130,0.0,75,Card,130.0,55.0,10
+10889,2025-03-13,Shymkent,Watch,Accessories,4.0,130,0.0,75,Kaspi,520.0,220.0,3
+10890,2025-02-11,Shymkent,Backpack,Accessories,3.0,48,0.1,22,Kaspi,129.6,63.60000000000001,2
+10891,2025-08-09,Aktobe,Laptop,Electronics,5.0,650,0.15,470,Kaspi,2762.5,412.5,8
+10892,2025-12-08,Almaty,Backpack,Accessories,5.0,48,0.0,22,Bank Transfer,240.0,130.0,12
+10893,2025-11-06,Astana,Smartphone,Electronics,1.0,520,0.1,380,Kaspi,468.0,88.0,11
+10894,2025-11-01,Aktobe,Backpack,Accessories,3.0,48,0.05,22,Kaspi,136.79999999999998,70.79999999999998,11
+10895,2025-12-05,Karaganda,Backpack,Accessories,3.0,48,0.0,22,Card,144.0,78.0,12
+10896,2025-07-03,Karaganda,Smartphone,Electronics,2.0,520,0.05,380,Kaspi,988.0,228.0,7
+10897,2025-09-01,Karaganda,Chair,Furniture,2.0,95,0.0,55,Kaspi,190.0,80.0,9
+10898,2025-02-27,Aktobe,Desk,Furniture,4.0,180,0.05,110,Bank Transfer,684.0,244.0,2
+10899,2025-04-15,Karaganda,Laptop,Electronics,4.0,650,0.05,470,Kaspi,2470.0,590.0,4
+10900,2025-08-26,Shymkent,Smartphone,Electronics,4.0,520,0.0,380,Card,2080.0,560.0,8
+10901,2025-10-31,Astana,Headphones,Electronics,4.0,75,0.15,35,Bank Transfer,255.0,115.0,10
+10902,2025-05-17,Karaganda,Headphones,Electronics,5.0,75,0.0,35,Kaspi,375.0,200.0,5
+10903,2025-03-08,Almaty,Headphones,Electronics,2.0,75,0.0,35,Card,150.0,80.0,3
+10904,2025-12-26,Almaty,Desk,Furniture,3.0,180,0.1,110,Bank Transfer,486.0,156.0,12
+10905,2025-07-14,Almaty,Chair,Furniture,3.0,95,0.15,55,Cash,242.25,77.25,7
+10906,2025-04-15,Aktobe,Smartphone,Electronics,4.0,520,0.05,380,Kaspi,1976.0,456.0,4
+10907,2025-12-17,Almaty,Headphones,Electronics,4.0,75,0.15,35,Kaspi,255.0,115.0,12
+10908,2025-03-28,Astana,Desk,Furniture,1.0,180,0.05,110,Card,171.0,61.0,3
+10909,2025-05-29,Astana,Smartphone,Electronics,4.0,520,0.0,380,Bank Transfer,2080.0,560.0,5
+10910,2025-10-21,Aktobe,Notebook,Stationery,2.0,5,0.05,2,Card,9.5,5.5,10
+10911,2025-10-29,Astana,Desk,Furniture,5.0,180,0.15,110,Cash,765.0,215.0,10
+10912,2025-03-11,Astana,Chair,Furniture,3.0,95,0.15,55,Bank Transfer,242.25,77.25,3
+10913,2025-04-01,Almaty,Pen Set,Stationery,5.0,12,0.15,5,Kaspi,51.0,25.999999999999996,4
+10914,2025-12-26,Shymkent,Notebook,Stationery,2.0,5,0.05,2,Cash,9.5,5.5,12
+10915,2025-07-19,Shymkent,Desk,Furniture,5.0,180,0.15,110,Cash,765.0,215.0,7
+10916,2025-11-07,Aktobe,Chair,Furniture,3.0,95,0.0,55,Card,285.0,120.0,11
+10917,2025-03-14,Shymkent,Chair,Furniture,2.0,95,0.0,55,Bank Transfer,190.0,80.0,3
+10918,2025-01-30,Shymkent,Smartphone,Electronics,4.0,520,0.15,380,Bank Transfer,1768.0,248.0,1
+10919,2025-03-31,Aktobe,Pen Set,Stationery,3.0,12,0.15,5,Kaspi,30.599999999999998,15.599999999999998,3
+10920,2025-08-08,Almaty,Notebook,Stationery,1.0,5,0.1,2,Kaspi,4.5,2.5,8
+10921,2025-07-03,Almaty,Chair,Furniture,4.0,95,0.0,55,Bank Transfer,380.0,160.0,7
+10922,2025-10-05,Aktobe,Laptop,Electronics,1.0,650,0.0,470,Cash,650.0,180.0,10
+10923,2025-12-01,Astana,Notebook,Stationery,3.0,5,0.0,2,Bank Transfer,15.0,9.0,12
+10924,2025-07-09,Astana,Backpack,Accessories,1.0,48,0.05,22,Card,45.599999999999994,23.599999999999994,7
+10925,2025-06-15,Astana,Laptop,Electronics,5.0,650,0.05,470,Kaspi,3087.5,737.5,6
+10926,2025-05-23,Aktobe,Backpack,Accessories,3.0,48,0.0,22,Cash,144.0,78.0,5
+10927,2025-06-12,Karaganda,Chair,Furniture,5.0,95,0.05,55,Card,451.25,176.25,6
+10928,2025-08-05,Almaty,Laptop,Electronics,2.0,650,0.1,470,Cash,1170.0,230.0,8
+10929,2025-07-17,Shymkent,Desk,Furniture,2.0,180,0.05,110,Bank Transfer,342.0,122.0,7
+10930,2025-09-06,Aktobe,Laptop,Electronics,4.0,650,0.1,470,Kaspi,2340.0,460.0,9
+10931,2025-03-04,Shymkent,Smartphone,Electronics,4.0,520,0.1,380,Cash,1872.0,352.0,3
+10932,2025-04-10,Shymkent,Smartphone,Electronics,2.0,520,0.15,380,Bank Transfer,884.0,124.0,4
+10933,2025-11-13,Aktobe,Backpack,Accessories,1.0,48,0.1,22,Kaspi,43.2,21.200000000000003,11
+10934,2025-03-06,Shymkent,Headphones,Electronics,4.0,75,0.0,35,Card,300.0,160.0,3
+10935,2025-08-27,Karaganda,Chair,Furniture,3.0,95,0.15,55,Bank Transfer,242.25,77.25,8
+10936,2025-12-12,Karaganda,Desk,Furniture,5.0,180,0.05,110,Kaspi,855.0,305.0,12
+10937,2025-09-03,Shymkent,Smartphone,Electronics,1.0,520,0.1,380,Cash,468.0,88.0,9
+10938,2025-09-21,Karaganda,Headphones,Electronics,3.0,75,0.1,35,Card,202.5,97.5,9
+10939,2025-10-13,Almaty,Watch,Accessories,2.0,130,0.05,75,Cash,247.0,97.0,10
+10940,2025-08-09,Karaganda,Chair,Furniture,2.0,95,0.1,55,Card,171.0,61.0,8
+10941,2025-12-16,Almaty,Pen Set,Stationery,5.0,12,0.05,5,Bank Transfer,57.0,31.999999999999993,12
+10942,2025-04-03,Almaty,Desk,Furniture,2.0,180,0.1,110,Bank Transfer,324.0,104.0,4
+10943,2025-08-17,Almaty,Watch,Accessories,4.0,130,0.05,75,Bank Transfer,494.0,194.0,8
+10944,2025-11-19,Almaty,Backpack,Accessories,3.0,48,0.1,22,Cash,129.6,63.60000000000001,11
+10945,2025-12-03,Astana,Desk,Furniture,3.0,180,0.0,110,Bank Transfer,540.0,210.0,12
+10946,2025-10-18,Astana,Notebook,Stationery,4.0,5,0.05,2,Bank Transfer,19.0,11.0,10
+10947,2025-09-24,Aktobe,Pen Set,Stationery,3.0,12,0.05,5,Kaspi,34.199999999999996,19.199999999999996,9
+10948,2025-11-12,Karaganda,Watch,Accessories,1.0,130,0.05,75,Cash,123.5,48.5,11
+10949,2025-11-25,Almaty,Watch,Accessories,3.0,130,0.0,75,Kaspi,390.0,165.0,11
+10950,2025-02-16,Karaganda,Chair,Furniture,1.0,95,0.15,55,Card,80.75,25.75,2
+10951,2025-01-25,Almaty,Backpack,Accessories,2.0,48,0.0,22,Card,96.0,52.0,1
+10952,2025-05-07,Astana,Pen Set,Stationery,1.0,12,0.05,5,Kaspi,11.399999999999999,6.399999999999999,5
+10953,2025-02-17,Almaty,Desk,Furniture,2.0,180,0.1,110,Kaspi,324.0,104.0,2
+10954,2025-08-02,Aktobe,Chair,Furniture,1.0,95,0.15,55,Card,80.75,25.75,8
+10955,2025-11-28,Astana,Headphones,Electronics,2.0,75,0.05,35,Card,142.5,72.5,11
+10956,2025-08-31,Almaty,Laptop,Electronics,3.0,650,0.0,470,Kaspi,1950.0,540.0,8
+10957,2025-12-30,Shymkent,Notebook,Stationery,2.0,5,0.15,2,Bank Transfer,8.5,4.5,12
+10958,2025-09-03,Almaty,Desk,Furniture,2.0,180,0.1,110,Kaspi,324.0,104.0,9
+10959,2025-09-20,Karaganda,Backpack,Accessories,4.0,48,0.0,22,Card,192.0,104.0,9
+10960,2025-03-04,Aktobe,Laptop,Electronics,1.0,650,0.15,470,Bank Transfer,552.5,82.5,3
+10961,2025-01-08,Aktobe,Chair,Furniture,2.0,95,0.15,55,Bank Transfer,161.5,51.5,1
+10962,2025-12-15,Karaganda,Notebook,Stationery,5.0,5,0.05,2,Kaspi,23.75,13.75,12
+10963,2025-06-29,Karaganda,Pen Set,Stationery,5.0,12,0.0,5,Cash,60.0,35.0,6
+10964,2025-08-16,Karaganda,Smartphone,Electronics,3.0,520,0.0,380,Card,1560.0,420.0,8
+10965,2025-03-05,Aktobe,Chair,Furniture,3.0,95,0.1,55,Bank Transfer,256.5,91.5,3
+10966,2025-10-08,Karaganda,Desk,Furniture,2.0,180,0.05,110,Bank Transfer,342.0,122.0,10
+10967,2025-12-22,Aktobe,Headphones,Electronics,3.0,75,0.1,35,Card,202.5,97.5,12
+10968,2025-08-09,Karaganda,Notebook,Stationery,4.0,5,0.15,2,Kaspi,17.0,9.0,8
+10969,2025-11-25,Shymkent,Desk,Furniture,3.0,180,0.05,110,Card,513.0,183.0,11
+10970,2025-08-27,Astana,Desk,Furniture,4.0,180,0.0,110,Bank Transfer,720.0,280.0,8
+10971,2025-02-19,Almaty,Desk,Furniture,5.0,180,0.15,110,Kaspi,765.0,215.0,2
+10972,2025-10-05,Almaty,Chair,Furniture,4.0,95,0.0,55,Bank Transfer,380.0,160.0,10
+10973,2025-03-18,Almaty,Headphones,Electronics,1.0,75,0.05,35,Kaspi,71.25,36.25,3
+10974,2025-03-09,Shymkent,Pen Set,Stationery,2.0,12,0.05,5,Kaspi,22.799999999999997,12.799999999999997,3
+10975,2025-12-07,Aktobe,Smartphone,Electronics,3.0,520,0.1,380,Cash,1404.0,264.0,12
+10976,2025-07-06,Karaganda,Headphones,Electronics,2.0,75,0.05,35,Card,142.5,72.5,7
+10977,2025-09-30,Aktobe,Backpack,Accessories,3.0,48,0.15,22,Cash,122.39999999999999,56.39999999999999,9
+10978,2025-12-07,Karaganda,Pen Set,Stationery,2.0,12,0.1,5,Card,21.6,11.600000000000001,12
+10979,2025-08-13,Shymkent,Laptop,Electronics,4.0,650,0.15,470,Cash,2210.0,330.0,8
+10980,2025-04-16,Almaty,Chair,Furniture,2.0,95,0.15,55,Bank Transfer,161.5,51.5,4
+10981,2025-10-23,Almaty,Smartphone,Electronics,3.0,520,0.1,380,Cash,1404.0,264.0,10
+10982,2025-01-12,Shymkent,Smartphone,Electronics,2.0,520,0.1,380,Cash,936.0,176.0,1
+10983,2025-11-01,Almaty,Notebook,Stationery,4.0,5,0.05,2,Card,19.0,11.0,11
+10984,2025-06-15,Karaganda,Desk,Furniture,1.0,180,0.15,110,Cash,153.0,43.0,6
+10985,2025-08-13,Aktobe,Backpack,Accessories,1.0,48,0.05,22,Card,45.599999999999994,23.599999999999994,8
+10986,2025-09-03,Aktobe,Chair,Furniture,1.0,95,0.15,55,Card,80.75,25.75,9
+10987,2025-12-02,Almaty,Watch,Accessories,2.0,130,0.0,75,Card,260.0,110.0,12
+10988,2025-03-14,Karaganda,Backpack,Accessories,2.0,48,0.0,22,Card,96.0,52.0,3
+10989,2025-08-14,Karaganda,Watch,Accessories,4.0,130,0.05,75,Cash,494.0,194.0,8
+10990,2025-05-04,Karaganda,Smartphone,Electronics,3.0,520,0.05,380,Kaspi,1482.0,342.0,5
+10991,2025-03-19,Almaty,Watch,Accessories,5.0,130,0.1,75,Bank Transfer,585.0,210.0,3
+10992,2025-06-05,Karaganda,Chair,Furniture,5.0,95,0.1,55,Bank Transfer,427.5,152.5,6
+10993,2025-04-20,Aktobe,Chair,Furniture,2.0,95,0.15,55,Card,161.5,51.5,4
+10994,2025-05-08,Almaty,Headphones,Electronics,4.0,75,0.05,35,Bank Transfer,285.0,145.0,5
+10995,2025-02-05,Aktobe,Notebook,Stationery,4.0,5,0.05,2,Card,19.0,11.0,2
+10996,2025-08-05,Astana,Desk,Furniture,5.0,180,0.15,110,Bank Transfer,765.0,215.0,8
+10997,2025-10-21,Shymkent,Headphones,Electronics,5.0,75,0.1,35,Bank Transfer,337.5,162.5,10
+10998,2025-05-29,Shymkent,Chair,Furniture,4.0,95,0.15,55,Cash,323.0,103.0,5
+10999,2025-05-22,Aktobe,Pen Set,Stationery,4.0,12,0.0,5,Cash,48.0,28.0,5
+11000,2025-02-13,Almaty,Notebook,Stationery,5.0,5,0.0,2,Kaspi,25.0,15.0,2
+11001,2025-12-09,Shymkent,Desk,Furniture,3.0,180,0.0,110,Cash,540.0,210.0,12
+11002,2025-09-30,Karaganda,Smartphone,Electronics,3.0,520,0.05,380,Card,1482.0,342.0,9
+11003,2025-10-15,Aktobe,Pen Set,Stationery,3.0,12,0.15,5,Kaspi,30.599999999999998,15.599999999999998,10
+11004,2025-07-20,Aktobe,Chair,Furniture,1.0,95,0.1,55,Card,85.5,30.5,7
+11005,2025-11-21,Karaganda,Headphones,Electronics,3.0,75,0.0,35,Bank Transfer,225.0,120.0,11
+11006,2025-05-09,Karaganda,Pen Set,Stationery,4.0,12,0.1,5,Bank Transfer,43.2,23.200000000000003,5
+11007,2025-02-23,Shymkent,Pen Set,Stationery,5.0,12,0.05,5,Card,57.0,31.999999999999993,2
+11008,2025-01-20,Shymkent,Smartphone,Electronics,1.0,520,0.1,380,Card,468.0,88.0,1
+11009,2025-04-21,Astana,Chair,Furniture,1.0,95,0.05,55,Cash,90.25,35.25,4
+11010,2025-11-22,Aktobe,Desk,Furniture,3.0,180,0.0,110,Kaspi,540.0,210.0,11
+11011,2025-07-16,Shymkent,Smartphone,Electronics,4.0,520,0.15,380,Bank Transfer,1768.0,248.0,7
+11012,2025-03-14,Karaganda,Desk,Furniture,3.0,180,0.05,110,Kaspi,513.0,183.0,3
+11013,2025-06-22,Shymkent,Notebook,Stationery,5.0,5,0.0,2,Bank Transfer,25.0,15.0,6
+11014,2025-03-27,Karaganda,Watch,Accessories,4.0,130,0.1,75,Cash,468.0,168.0,3
+11015,2025-02-12,Shymkent,Notebook,Stationery,4.0,5,0.15,2,Card,17.0,9.0,2
+11016,2025-01-26,Shymkent,Smartphone,Electronics,5.0,520,0.15,380,Cash,2210.0,310.0,1
+11017,2025-07-30,Shymkent,Desk,Furniture,4.0,180,0.1,110,Kaspi,648.0,208.0,7
+11018,2025-09-24,Almaty,Pen Set,Stationery,2.0,12,0.1,5,Kaspi,21.6,11.600000000000001,9
+11019,2025-04-08,Shymkent,Notebook,Stationery,3.0,5,0.15,2,Card,12.75,6.75,4
+11020,2025-08-18,Astana,Desk,Furniture,2.0,180,0.15,110,Cash,306.0,86.0,8
+11021,2025-08-20,Shymkent,Smartphone,Electronics,4.0,520,0.05,380,Kaspi,1976.0,456.0,8
+11022,2025-09-20,Shymkent,Backpack,Accessories,5.0,48,0.15,22,Cash,204.0,93.99999999999999,9
+11023,2025-05-20,Shymkent,Notebook,Stationery,3.0,5,0.0,2,Cash,15.0,9.0,5
+11024,2025-03-29,Astana,Chair,Furniture,5.0,95,0.0,55,Cash,475.0,200.0,3
+11025,2025-02-23,Astana,Notebook,Stationery,4.0,5,0.05,2,Bank Transfer,19.0,11.0,2
+11026,2025-01-07,Almaty,Laptop,Electronics,3.0,650,0.15,470,Card,1657.5,247.5,1
+11027,2025-08-03,Aktobe,Watch,Accessories,2.0,130,0.15,75,Kaspi,221.0,71.0,8
+11028,2025-01-26,Astana,Watch,Accessories,5.0,130,0.1,75,Cash,585.0,210.0,1
+11029,2025-09-27,Shymkent,Desk,Furniture,4.0,180,0.0,110,Kaspi,720.0,280.0,9
+11030,2025-04-03,Aktobe,Desk,Furniture,1.0,180,0.1,110,Card,162.0,52.0,4
+11031,2025-03-05,Karaganda,Chair,Furniture,2.0,95,0.05,55,Bank Transfer,180.5,70.5,3
+11032,2025-08-05,Almaty,Pen Set,Stationery,1.0,12,0.05,5,Cash,11.399999999999999,6.399999999999999,8
+11033,2025-11-26,Almaty,Watch,Accessories,1.0,130,0.1,75,Bank Transfer,117.0,42.0,11
+11034,2025-08-18,Shymkent,Headphones,Electronics,4.0,75,0.0,35,Cash,300.0,160.0,8
+11035,2025-07-07,Almaty,Chair,Furniture,4.0,95,0.0,55,Bank Transfer,380.0,160.0,7
+11036,2025-08-06,Karaganda,Notebook,Stationery,1.0,5,0.1,2,Card,4.5,2.5,8
+11037,2025-07-08,Shymkent,Headphones,Electronics,5.0,75,0.15,35,Kaspi,318.75,143.75,7
+11038,2025-09-01,Shymkent,Desk,Furniture,3.0,180,0.1,110,Bank Transfer,486.0,156.0,9
+11039,2025-05-26,Karaganda,Watch,Accessories,4.0,130,0.0,75,Bank Transfer,520.0,220.0,5
+11040,2025-02-16,Shymkent,Smartphone,Electronics,3.0,520,0.1,380,Bank Transfer,1404.0,264.0,2
+11041,2025-01-17,Almaty,Chair,Furniture,1.0,95,0.15,55,Card,80.75,25.75,1
+11042,2025-07-22,Almaty,Notebook,Stationery,4.0,5,0.15,2,Card,17.0,9.0,7
+11043,2025-01-18,Almaty,Desk,Furniture,5.0,180,0.1,110,Kaspi,810.0,260.0,1
+11044,2025-12-12,Almaty,Laptop,Electronics,5.0,650,0.05,470,Card,3087.5,737.5,12
+11045,2025-06-01,Shymkent,Backpack,Accessories,5.0,48,0.05,22,Kaspi,228.0,117.99999999999997,6
+11046,2025-01-30,Astana,Chair,Furniture,2.0,95,0.0,55,Card,190.0,80.0,1
+11047,2025-01-12,Shymkent,Chair,Furniture,1.0,95,0.05,55,Cash,90.25,35.25,1
+11048,2025-01-29,Astana,Pen Set,Stationery,3.0,12,0.05,5,Cash,34.199999999999996,19.199999999999996,1
+11049,2025-06-29,Aktobe,Headphones,Electronics,4.0,75,0.05,35,Card,285.0,145.0,6
+11050,2025-05-15,Shymkent,Smartphone,Electronics,2.0,520,0.15,380,Card,884.0,124.0,5
+11051,2025-07-05,Astana,Chair,Furniture,4.0,95,0.1,55,Kaspi,342.0,122.0,7
+11052,2025-07-29,Karaganda,Desk,Furniture,1.0,180,0.05,110,Cash,171.0,61.0,7
+11053,2025-01-22,Almaty,Backpack,Accessories,4.0,48,0.1,22,Card,172.8,84.80000000000001,1
+11054,2025-07-04,Aktobe,Watch,Accessories,3.0,130,0.15,75,Kaspi,331.5,106.5,7
+11055,2025-08-12,Karaganda,Pen Set,Stationery,3.0,12,0.1,5,Cash,32.4,17.400000000000002,8
+11056,2025-05-30,Aktobe,Watch,Accessories,5.0,130,0.05,75,Cash,617.5,242.5,5
+11057,2025-09-28,Aktobe,Pen Set,Stationery,3.0,12,0.1,5,Kaspi,32.4,17.400000000000002,9
+11058,2025-09-23,Karaganda,Smartphone,Electronics,5.0,520,0.1,380,Kaspi,2340.0,440.0,9
+11059,2025-04-21,Aktobe,Notebook,Stationery,5.0,5,0.1,2,Kaspi,22.5,12.5,4
+11060,2025-01-08,Almaty,Backpack,Accessories,4.0,48,0.1,22,Bank Transfer,172.8,84.80000000000001,1
+11061,2025-03-26,Shymkent,Smartphone,Electronics,5.0,520,0.15,380,Kaspi,2210.0,310.0,3
+11062,2025-01-09,Karaganda,Smartphone,Electronics,5.0,520,0.0,380,Cash,2600.0,700.0,1
+11063,2025-01-15,Almaty,Pen Set,Stationery,1.0,12,0.05,5,Bank Transfer,11.399999999999999,6.399999999999999,1
+11064,2025-01-01,Almaty,Laptop,Electronics,3.0,650,0.15,470,Card,1657.5,247.5,1
+11065,2025-11-02,Karaganda,Backpack,Accessories,1.0,48,0.0,22,Bank Transfer,48.0,26.0,11
+11066,2025-10-06,Shymkent,Watch,Accessories,5.0,130,0.1,75,Cash,585.0,210.0,10
+11067,2025-07-09,Aktobe,Headphones,Electronics,3.0,75,0.05,35,Bank Transfer,213.75,108.75,7
+11068,2025-11-11,Karaganda,Headphones,Electronics,1.0,75,0.15,35,Kaspi,63.75,28.75,11
+11069,2025-06-04,Astana,Backpack,Accessories,4.0,48,0.15,22,Cash,163.2,75.19999999999999,6
+11070,2025-10-29,Astana,Desk,Furniture,2.0,180,0.15,110,Kaspi,306.0,86.0,10
+11071,2025-01-06,Aktobe,Backpack,Accessories,5.0,48,0.0,22,Cash,240.0,130.0,1
+11072,2025-04-28,Almaty,Desk,Furniture,2.0,180,0.05,110,Card,342.0,122.0,4
+11073,2025-10-28,Almaty,Pen Set,Stationery,4.0,12,0.1,5,Cash,43.2,23.200000000000003,10
+11074,2025-04-21,Astana,Headphones,Electronics,3.0,75,0.1,35,Kaspi,202.5,97.5,4
+11075,2025-11-05,Almaty,Pen Set,Stationery,5.0,12,0.15,5,Bank Transfer,51.0,25.999999999999996,11
+11076,2025-07-12,Shymkent,Watch,Accessories,3.0,130,0.1,75,Card,351.0,126.0,7
+11077,2025-10-02,Almaty,Pen Set,Stationery,4.0,12,0.1,5,Bank Transfer,43.2,23.200000000000003,10
+11078,2025-01-28,Shymkent,Laptop,Electronics,4.0,650,0.0,470,Card,2600.0,720.0,1
+11079,2025-02-06,Almaty,Laptop,Electronics,3.0,650,0.05,470,Kaspi,1852.5,442.5,2
+11080,2025-06-17,Aktobe,Smartphone,Electronics,4.0,520,0.05,380,Card,1976.0,456.0,6
+11081,2025-06-22,Karaganda,Smartphone,Electronics,5.0,520,0.05,380,Bank Transfer,2470.0,570.0,6
+11082,2025-03-06,Shymkent,Chair,Furniture,3.0,95,0.1,55,Kaspi,256.5,91.5,3
+11083,2025-12-09,Astana,Headphones,Electronics,5.0,75,0.0,35,Kaspi,375.0,200.0,12
+11084,2025-12-13,Aktobe,Pen Set,Stationery,4.0,12,0.05,5,Bank Transfer,45.599999999999994,25.599999999999994,12
+11085,2025-10-30,Shymkent,Smartphone,Electronics,2.0,520,0.1,380,Card,936.0,176.0,10
+11086,2025-12-13,Shymkent,Desk,Furniture,1.0,180,0.0,110,Cash,180.0,70.0,12
+11087,2025-10-14,Aktobe,Watch,Accessories,2.0,130,0.15,75,Bank Transfer,221.0,71.0,10
+11088,2025-12-09,Karaganda,Laptop,Electronics,5.0,650,0.05,470,Cash,3087.5,737.5,12
+11089,2025-01-28,Astana,Laptop,Electronics,2.0,650,0.0,470,Card,1300.0,360.0,1
+11090,2025-10-24,Shymkent,Headphones,Electronics,1.0,75,0.0,35,Card,75.0,40.0,10
+11091,2025-03-16,Almaty,Notebook,Stationery,3.0,5,0.1,2,Cash,13.5,7.5,3
+11092,2025-08-13,Shymkent,Smartphone,Electronics,2.0,520,0.15,380,Cash,884.0,124.0,8
+11093,2025-12-10,Aktobe,Desk,Furniture,3.0,180,0.05,110,Cash,513.0,183.0,12
+11094,2025-06-02,Aktobe,Desk,Furniture,1.0,180,0.15,110,Card,153.0,43.0,6
+11095,2025-12-11,Almaty,Headphones,Electronics,5.0,75,0.1,35,Kaspi,337.5,162.5,12
+11096,2025-01-25,Shymkent,Smartphone,Electronics,1.0,520,0.0,380,Card,520.0,140.0,1
+11097,2025-12-02,Karaganda,Smartphone,Electronics,2.0,520,0.05,380,Cash,988.0,228.0,12
+11098,2025-01-21,Almaty,Notebook,Stationery,1.0,5,0.15,2,Kaspi,4.25,2.25,1
+11099,2025-10-14,Almaty,Pen Set,Stationery,2.0,12,0.05,5,Cash,22.799999999999997,12.799999999999997,10
+11100,2025-10-01,Karaganda,Desk,Furniture,4.0,180,0.0,110,Cash,720.0,280.0,10
+11101,2025-07-10,Astana,Desk,Furniture,5.0,180,0.0,110,Card,900.0,350.0,7
+11102,2025-07-28,Shymkent,Desk,Furniture,1.0,180,0.15,110,Cash,153.0,43.0,7
+11103,2025-09-18,Karaganda,Pen Set,Stationery,2.0,12,0.1,5,Card,21.6,11.600000000000001,9
+11104,2025-04-19,Almaty,Desk,Furniture,5.0,180,0.1,110,Cash,810.0,260.0,4
+11105,2025-03-08,Astana,Backpack,Accessories,5.0,48,0.1,22,Kaspi,216.0,106.00000000000001,3
+11106,2025-10-25,Aktobe,Chair,Furniture,4.0,95,0.15,55,Cash,323.0,103.0,10
+11107,2025-03-15,Karaganda,Chair,Furniture,1.0,95,0.15,55,Kaspi,80.75,25.75,3
+11108,2025-09-03,Karaganda,Headphones,Electronics,5.0,75,0.1,35,Cash,337.5,162.5,9
+11109,2025-07-16,Astana,Smartphone,Electronics,2.0,520,0.15,380,Bank Transfer,884.0,124.0,7
+11110,2025-07-28,Aktobe,Pen Set,Stationery,2.0,12,0.0,5,Cash,24.0,14.0,7
+11111,2025-08-08,Almaty,Pen Set,Stationery,3.0,12,0.05,5,Kaspi,34.199999999999996,19.199999999999996,8
+11112,2025-03-16,Karaganda,Headphones,Electronics,5.0,75,0.1,35,Card,337.5,162.5,3
+11113,2025-11-14,Astana,Smartphone,Electronics,4.0,520,0.1,380,Cash,1872.0,352.0,11
+11114,2025-02-04,Astana,Pen Set,Stationery,3.0,12,0.05,5,Bank Transfer,34.199999999999996,19.199999999999996,2
+11115,2025-01-30,Shymkent,Pen Set,Stationery,1.0,12,0.0,5,Bank Transfer,12.0,7.0,1
+11116,2025-08-20,Shymkent,Notebook,Stationery,2.0,5,0.15,2,Bank Transfer,8.5,4.5,8
+11117,2025-03-24,Almaty,Desk,Furniture,1.0,180,0.1,110,Cash,162.0,52.0,3
+11118,2025-06-04,Almaty,Pen Set,Stationery,2.0,12,0.15,5,Cash,20.4,10.399999999999999,6
+11119,2025-08-03,Aktobe,Notebook,Stationery,1.0,5,0.1,2,Cash,4.5,2.5,8
+11120,2025-11-27,Almaty,Backpack,Accessories,3.0,48,0.05,22,Card,136.79999999999998,70.79999999999998,11
+11121,2025-03-16,Aktobe,Smartphone,Electronics,3.0,520,0.05,380,Bank Transfer,1482.0,342.0,3
+11122,2025-02-23,Shymkent,Chair,Furniture,3.0,95,0.15,55,Bank Transfer,242.25,77.25,2
+11123,2025-02-28,Astana,Notebook,Stationery,5.0,5,0.0,2,Cash,25.0,15.0,2
+11124,2025-11-08,Karaganda,Backpack,Accessories,3.0,48,0.1,22,Kaspi,129.6,63.60000000000001,11
+11125,2025-08-25,Shymkent,Notebook,Stationery,1.0,5,0.1,2,Bank Transfer,4.5,2.5,8
+11126,2025-06-21,Astana,Notebook,Stationery,3.0,5,0.1,2,Card,13.5,7.5,6
+11127,2025-06-27,Karaganda,Chair,Furniture,5.0,95,0.0,55,Kaspi,475.0,200.0,6
+11128,2025-08-15,Aktobe,Laptop,Electronics,3.0,650,0.15,470,Kaspi,1657.5,247.5,8
+11129,2025-04-26,Aktobe,Smartphone,Electronics,5.0,520,0.1,380,Kaspi,2340.0,440.0,4
+11130,2025-01-24,Karaganda,Laptop,Electronics,2.0,650,0.05,470,Card,1235.0,295.0,1
+11131,2025-12-01,Shymkent,Headphones,Electronics,2.0,75,0.15,35,Kaspi,127.5,57.5,12
+11132,2025-03-20,Shymkent,Backpack,Accessories,5.0,48,0.0,22,Card,240.0,130.0,3
+11133,2025-12-18,Aktobe,Backpack,Accessories,4.0,48,0.0,22,Cash,192.0,104.0,12
+11134,2025-02-03,Karaganda,Laptop,Electronics,1.0,650,0.0,470,Card,650.0,180.0,2
+11135,2025-07-11,Aktobe,Headphones,Electronics,1.0,75,0.05,35,Card,71.25,36.25,7
+11136,2025-12-13,Almaty,Backpack,Accessories,1.0,48,0.0,22,Card,48.0,26.0,12
+11137,2025-02-25,Aktobe,Watch,Accessories,4.0,130,0.0,75,Cash,520.0,220.0,2
+11138,2025-01-22,Shymkent,Chair,Furniture,5.0,95,0.15,55,Card,403.75,128.75,1
+11139,2025-09-30,Almaty,Laptop,Electronics,2.0,650,0.15,470,Cash,1105.0,165.0,9
+11140,2025-12-16,Astana,Pen Set,Stationery,1.0,12,0.0,5,Cash,12.0,7.0,12
+11141,2025-01-16,Shymkent,Desk,Furniture,1.0,180,0.0,110,Bank Transfer,180.0,70.0,1
+11142,2025-07-16,Almaty,Watch,Accessories,1.0,130,0.05,75,Cash,123.5,48.5,7
+11143,2025-12-08,Almaty,Desk,Furniture,5.0,180,0.05,110,Kaspi,855.0,305.0,12
+11144,2025-01-18,Astana,Laptop,Electronics,1.0,650,0.0,470,Bank Transfer,650.0,180.0,1
+11145,2025-09-17,Aktobe,Desk,Furniture,2.0,180,0.1,110,Kaspi,324.0,104.0,9
+11146,2025-10-11,Almaty,Laptop,Electronics,1.0,650,0.1,470,Bank Transfer,585.0,115.0,10
+11147,2025-11-14,Almaty,Notebook,Stationery,2.0,5,0.05,2,Bank Transfer,9.5,5.5,11
+11148,2025-04-23,Aktobe,Backpack,Accessories,2.0,48,0.05,22,Cash,91.19999999999999,47.19999999999999,4
+11149,2025-08-17,Shymkent,Laptop,Electronics,5.0,650,0.05,470,Cash,3087.5,737.5,8
+11150,2025-07-01,Shymkent,Headphones,Electronics,2.0,75,0.05,35,Card,142.5,72.5,7
+11151,2025-11-19,Almaty,Desk,Furniture,2.0,180,0.1,110,Bank Transfer,324.0,104.0,11
+11152,2025-07-12,Karaganda,Notebook,Stationery,1.0,5,0.15,2,Card,4.25,2.25,7
+11153,2025-11-30,Astana,Chair,Furniture,3.0,95,0.1,55,Bank Transfer,256.5,91.5,11
+11154,2025-07-03,Shymkent,Smartphone,Electronics,4.0,520,0.15,380,Kaspi,1768.0,248.0,7
+11155,2025-11-24,Astana,Notebook,Stationery,1.0,5,0.0,2,Bank Transfer,5.0,3.0,11
+11156,2025-03-24,Astana,Pen Set,Stationery,4.0,12,0.1,5,Card,43.2,23.200000000000003,3
+11157,2025-07-31,Aktobe,Notebook,Stationery,3.0,5,0.0,2,Card,15.0,9.0,7
+11158,2025-01-31,Almaty,Headphones,Electronics,2.0,75,0.0,35,Card,150.0,80.0,1
+11159,2025-07-26,Shymkent,Pen Set,Stationery,3.0,12,0.0,5,Bank Transfer,36.0,21.0,7
+11160,2025-10-18,Almaty,Headphones,Electronics,5.0,75,0.0,35,Bank Transfer,375.0,200.0,10
+11161,2025-07-17,Aktobe,Chair,Furniture,1.0,95,0.1,55,Cash,85.5,30.5,7
+11162,2025-01-16,Karaganda,Chair,Furniture,3.0,95,0.0,55,Card,285.0,120.0,1
+11163,2025-01-26,Karaganda,Backpack,Accessories,1.0,48,0.15,22,Card,40.8,18.799999999999997,1
+11164,2025-07-06,Karaganda,Laptop,Electronics,5.0,650,0.1,470,Bank Transfer,2925.0,575.0,7
+11165,2025-10-29,Aktobe,Headphones,Electronics,4.0,75,0.05,35,Card,285.0,145.0,10
+11166,2025-04-06,Shymkent,Pen Set,Stationery,2.0,12,0.05,5,Card,22.799999999999997,12.799999999999997,4
+11167,2025-05-20,Astana,Laptop,Electronics,4.0,650,0.0,470,Card,2600.0,720.0,5
+11168,2025-02-27,Shymkent,Chair,Furniture,2.0,95,0.05,55,Cash,180.5,70.5,2
+11169,2025-10-06,Almaty,Laptop,Electronics,5.0,650,0.1,470,Kaspi,2925.0,575.0,10
+11170,2025-02-05,Aktobe,Laptop,Electronics,3.0,650,0.0,470,Cash,1950.0,540.0,2
+11171,2025-02-24,Almaty,Headphones,Electronics,1.0,75,0.15,35,Kaspi,63.75,28.75,2
+11172,2025-04-29,Aktobe,Notebook,Stationery,2.0,5,0.1,2,Kaspi,9.0,5.0,4
+11173,2025-12-09,Aktobe,Smartphone,Electronics,2.0,520,0.0,380,Cash,1040.0,280.0,12
+11174,2025-05-31,Shymkent,Watch,Accessories,2.0,130,0.15,75,Kaspi,221.0,71.0,5
+11175,2025-02-12,Astana,Headphones,Electronics,1.0,75,0.0,35,Card,75.0,40.0,2
+11176,2025-08-12,Almaty,Desk,Furniture,2.0,180,0.05,110,Card,342.0,122.0,8
+11177,2025-05-06,Karaganda,Desk,Furniture,1.0,180,0.0,110,Card,180.0,70.0,5
+11178,2025-07-10,Almaty,Smartphone,Electronics,3.0,520,0.15,380,Bank Transfer,1326.0,186.0,7
+11179,2025-07-27,Astana,Backpack,Accessories,3.0,48,0.15,22,Cash,122.39999999999999,56.39999999999999,7
+11180,2025-05-10,Karaganda,Headphones,Electronics,2.0,75,0.1,35,Cash,135.0,65.0,5
+11181,2025-08-03,Karaganda,Watch,Accessories,2.0,130,0.0,75,Kaspi,260.0,110.0,8
+11182,2025-04-11,Shymkent,Watch,Accessories,5.0,130,0.05,75,Cash,617.5,242.5,4
+11183,2025-04-30,Astana,Backpack,Accessories,1.0,48,0.15,22,Cash,40.8,18.799999999999997,4
+11184,2025-05-10,Astana,Watch,Accessories,4.0,130,0.05,75,Bank Transfer,494.0,194.0,5
+11185,2025-11-20,Astana,Watch,Accessories,1.0,130,0.0,75,Card,130.0,55.0,11
+11186,2025-07-22,Aktobe,Backpack,Accessories,5.0,48,0.05,22,Kaspi,228.0,117.99999999999997,7
+11187,2025-03-15,Aktobe,Backpack,Accessories,1.0,48,0.05,22,Card,45.599999999999994,23.599999999999994,3
+11188,2025-04-11,Aktobe,Desk,Furniture,2.0,180,0.0,110,Cash,360.0,140.0,4
+11189,2025-06-06,Karaganda,Laptop,Electronics,2.0,650,0.1,470,Bank Transfer,1170.0,230.0,6
+11190,2025-02-16,Shymkent,Backpack,Accessories,4.0,48,0.0,22,Cash,192.0,104.0,2
+11191,2025-09-04,Shymkent,Chair,Furniture,2.0,95,0.15,55,Card,161.5,51.5,9
+11192,2025-06-03,Almaty,Watch,Accessories,4.0,130,0.0,75,Card,520.0,220.0,6
+11193,2025-05-11,Almaty,Chair,Furniture,1.0,95,0.05,55,Kaspi,90.25,35.25,5
+11194,2025-03-17,Astana,Laptop,Electronics,3.0,650,0.1,470,Cash,1755.0,345.0,3
+11195,2025-06-03,Shymkent,Pen Set,Stationery,4.0,12,0.15,5,Cash,40.8,20.799999999999997,6
+11196,2025-09-20,Karaganda,Notebook,Stationery,5.0,5,0.05,2,Card,23.75,13.75,9
+11197,2025-02-18,Astana,Laptop,Electronics,2.0,650,0.05,470,Bank Transfer,1235.0,295.0,2
+11198,2025-06-06,Karaganda,Backpack,Accessories,4.0,48,0.15,22,Kaspi,163.2,75.19999999999999,6
+11199,2025-11-30,Shymkent,Watch,Accessories,2.0,130,0.05,75,Card,247.0,97.0,11
+11200,2025-06-10,Almaty,Pen Set,Stationery,1.0,12,0.0,5,Bank Transfer,12.0,7.0,6

@@ -1,0 +1,18 @@
+
+PYTHON SALES DATA ANALYSIS
+
+Total Orders: 1200
+Total Sales: 641059.60
+Total Profit: 172228.60
+Average Order Value: 534.22
+Total Products Sold: 3586.0
+
+Best Product: Smartphone
+Best City: Shymkent
+Best Month: 8
+
+Tools:
+Python, Pandas, Matplotlib, Google Colab
+
+Dataset:
+Synthetic sample data for educational purposes.
